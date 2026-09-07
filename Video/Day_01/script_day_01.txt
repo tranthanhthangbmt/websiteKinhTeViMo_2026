@@ -1,0 +1,179 @@
+Slide 1: Slide bìa
+Người 1: Chào các em. Chào mừng các em đến với môn học Kinh tế Vi mô. Cô là Nguyễn Đào Xuân, sẽ đồng hành cùng các em trong suốt học phần này. Hôm nay chúng ta sẽ bắt đầu với Buổi 1, Chương 1: Tổng quan về kinh tế vi mô.
+Người 2: Dạ thưa cô, môn này tên là "Vi mô", chữ "Vi mô" có nghĩa là gì vậy ạ? Nó có giống môn Kinh tế chính trị mình học năm nhất không cô?
+Người 1: Một câu hỏi khởi động rất thú vị! Chữ "Vi" nghĩa là nhỏ bé. Khác với Kinh tế chính trị thiên về lý luận chung, Kinh tế vi mô sẽ đưa cho em các công cụ toán học, đồ thị cụ thể để đo lường các "tế bào nhỏ" trong nền kinh tế, ví dụ như em đi chợ mua mớ rau giá bao nhiêu, hay một quán trà sữa quyết định bán ly trà sữa giá bao nhiêu để có lãi. Cụ thể nó như thế nào, chúng ta sẽ dần khám phá trong chương này nhé.
+
+Slide 2: Mục tiêu bài học (1/2)
+Người 1: Bây giờ, chúng ta cùng xem mục tiêu phần đầu của bài học. Sau buổi hôm nay, các em sẽ phải phân biệt được vi mô và vĩ mô, hiểu rõ đối tượng, phương pháp nghiên cứu và đặc biệt là phân tích được nguyên nhân cốt lõi sinh ra môn Kinh tế học: Đó chính là sự khan hiếm nguồn lực.
+Người 2: Có phải vì xã hội thiếu thốn tài nguyên nên mình mới phải tính toán chi li, và môn Kinh tế học ra đời từ đó đúng không cô?
+Người 1: Chính xác em ạ! Nếu mọi thứ đều vô hạn như không khí để hít thở, thì ta chẳng cần phải lựa chọn hay tính toán làm gì. Chính vì khan hiếm, môn khoa học về sự lựa chọn mới ra đời.
+
+Slide 3: Mục tiêu bài học (2/2)
+Người 1: Chuyển sang phần mục tiêu tiếp theo, bài học yêu cầu chúng ta áp dụng khái niệm Chi phí cơ hội vào thực tế, phân tích được Đường giới hạn khả năng sản xuất (gọi tắt là đường PPF) và hiểu được các mô hình tổ chức kinh tế cơ bản. 
+Người 2: Đường giới hạn khả năng sản xuất nghe có vẻ liên quan đến đồ thị toán học cô nhỉ?
+Người 1: Đúng rồi em, nó là đồ thị đầu tiên và quan trọng nhất của kinh tế học. Cô hứa là nó rất dễ hiểu và rất thực tế, không khô khan như toán học thuần túy đâu.
+
+Slide 4: Nội dung bài học
+Người 1: Tiếp theo là mục lục của bài học hôm nay. Chúng ta sẽ đi qua 3 phần chính. Phần một: Các khái niệm cơ bản. Phần hai: Giới hạn khả năng sản xuất. Phần ba: Các vấn đề kinh tế cơ bản. Và cuối cùng là phần bài tập trắc nghiệm để củng cố.
+
+Slide 5: 1.1.1. Khái niệm kinh tế vi mô - Câu hỏi mở đầu
+Người 1: Trước khi đọc định nghĩa, cô có một câu hỏi mở dành cho cả lớp: Tại sao sáng nay các em lại có mặt trong lớp học này? Thay vì ở nhà ngủ nướng, đi chơi, hay đi làm thêm kiếm tiền?
+Người 2: Dạ... vì nhà trường xếp lịch học như vậy ạ. Với lại em cũng muốn có bằng đại học để sau này đi làm lương cao hơn là việc đi làm thêm part-time bây giờ.
+Người 1: Rất thực tế! Em đã vừa thực hiện một phép tính toán: Đánh đổi giấc ngủ và tiền lương làm thêm vài chục nghìn một giờ hiện tại, để lấy kiến thức và cơ hội thu nhập cao hơn trong tương lai. Mọi quyết định như vậy của con người đều mang bản chất "kinh tế".
+
+Slide 6: 1.1.1. Kinh tế học là gì?
+Người 1: Chính từ những lựa chọn đó, chúng ta có định nghĩa Kinh tế học ở trên màn hình. Kinh tế học là môn khoa học xã hội, nghiên cứu cách thức mà con người, từ cá nhân đến chính phủ, đưa ra sự lựa chọn để phân bổ các nguồn lực "khan hiếm", nhằm thỏa mãn nhu cầu "không giới hạn" của mình.
+Người 2: Nghĩa là lòng tham của con người thì vô đáy, nhưng túi tiền và tài nguyên thì có hạn đúng không cô?
+Người 1: Em tóm tắt rất "chuẩn"! Vấn đề muôn thuở của nhân loại chính là phương trình: Nhu cầu vô hạn đối nghịch với Nguồn lực hữu hạn.
+
+Slide 7: 1.1.1. Phân loại Kinh tế học
+Người 1: Tiếp theo, Kinh tế học được chia thành 2 nhánh lớn. Cô lấy ví dụ như việc quan sát một khu rừng. Nếu em đứng trên cao nhìn bao quát toàn bộ khu rừng, đó là Kinh tế Vĩ mô. Còn nếu em cầm kính lúp đi quan sát từng cái cây, từng chiếc lá, thì đó là Kinh tế Vi mô.
+Người 2: Vậy môn học của chúng ta là đi soi từng cái cây ạ?
+Người 1: Đúng rồi, chúng ta sẽ "soi" xem cái cây đó hút nước thế nào, cũng giống như xem một doanh nghiệp cụ thể định giá sản phẩm ra sao trên thị trường.
+
+Slide 8: 1.1.1. Kinh tế vi mô (Microeconomics)
+Người 1: Các em nhìn sang màn hình, Kinh tế vi mô nghiên cứu hành vi của các tế bào độc lập. Ví dụ như hộ gia đình quyết định chi bao nhiêu tiền mua thịt, mua rau. Hoặc một quán cafe quyết định một ngày pha bao nhiêu ly cafe, thuê bao nhiêu nhân viên.
+
+Slide 9: 1.1.1. Kinh tế vĩ mô (Macroeconomics)
+Người 1: Ngược lại, Kinh tế vĩ mô lại nhìn vấn đề ở tầm quốc gia. Họ không quan tâm giá 1 ly cafe, mà quan tâm đến Lạm phát (mức giá chung của mọi mặt hàng), tỷ lệ Thất nghiệp của cả nước, tăng trưởng GDP, và tỷ giá đồng đô la so với tiền Việt. 
+
+Slide 10: 1.1.2. Đối tượng và nội dung nghiên cứu
+Người 1: Vậy trong bức tranh Vi mô đó, ai là người đưa ra các quyết định? Chúng ta có 3 tác nhân chính: Một là Người tiêu dùng hay Hộ gia đình. Hai là Nhà sản xuất hay Doanh nghiệp. Ba là Chính phủ. 
+
+Slide 11: 1.1.2.1. Đối tượng: Người tiêu dùng
+Người 1: Chúng ta đi vào tác nhân đầu tiên: Người tiêu dùng. Mục tiêu tối thượng của họ là tối đa hóa sự thỏa mãn, môn học gọi là "hữu dụng". Nhưng họ bị ràng buộc bởi túi tiền hạn hẹp. Nên họ phải quyết định phân bổ tiền mua gạo, mua áo quần sao cho thấy vui nhất.
+Người 2: Giống như em đi siêu thị chỉ mang có 500 nghìn, em phải đứng cân nhắc bỏ lại hộp bánh để lấy lốc sữa đúng không cô?
+Người 1: Chính xác. Đó chính là hành vi tối ưu hóa dưới ràng buộc ngân sách mà ta sẽ học tính toán bằng công thức ở các chương sau.
+
+Slide 12: 1.1.2.1. Đối tượng: Doanh nghiệp
+Người 1: Tác nhân thứ hai là Doanh nghiệp. Khác với chúng ta đi tìm niềm vui, doanh nghiệp đi tìm thứ khác: Tối đa hóa Lợi nhuận. Bị ràng buộc bởi chi phí và công nghệ, họ phải đau đầu giải bài toán: Sản xuất cái gì, số lượng bao nhiêu, giá bán bao nhiêu và dùng mấy nhân công để lời nhiều nhất.
+
+Slide 13: 1.1.2.1. Đối tượng: Chính phủ
+Người 1: Tác nhân thứ 3 là Chính phủ. Trong kinh tế vi mô, chính phủ đóng vai trò như một trọng tài. Họ thiết lập luật chơi, đánh thuế, trợ cấp và can thiệp khi thị trường có những kẻ chơi xấu như độc quyền hay gây ô nhiễm môi trường.
+
+Slide 14: 1.1.2.2. Nội dung nghiên cứu của Kinh tế vi mô
+Người 1: Ở phần này, cô tổng hợp lại các nội dung chúng ta sẽ lần lượt học trong các tuần tới. Bắt đầu từ Cung Cầu, đến Lý thuyết người tiêu dùng, và Lý thuyết doanh nghiệp (Sản xuất, Chi phí).
+
+Slide 15: 1.1.2.2. Nội dung nghiên cứu của Kinh tế vi mô (Tiếp)
+Người 1: Tiếp nối là các nội dung: Cấu trúc thị trường cạnh tranh hay độc quyền, thị trường yếu tố sản xuất (thuê lao động), và cuối cùng là sự can thiệp của chính phủ. Toàn bộ sáu nội dung này ghép lại thành hệ thống kiến thức vi mô hoàn chỉnh.
+
+Slide 16: 1.1.3. Phương pháp nghiên cứu
+Người 1: Về phương pháp nghiên cứu, Kinh tế học không phải là ngồi đoán mò, mà là một môn khoa học. Tức là đi từ quan sát thực tế, đặt giả thuyết, dựng mô hình toán học rồi cuối cùng lấy số liệu thống kê để kiểm định xem giả thuyết đó đúng hay sai.
+Người 2: Vậy mình có phải tính toán thống kê phức tạp không cô? 
+Người 1: Ở bậc đại học cơ bản, chúng ta sẽ dừng lại ở mức đọc hiểu mô hình toán học đồ thị. Phần thống kê kiểm định sẽ nằm ở môn Kinh tế lượng các em học ở năm sau nhé.
+
+Slide 17: 1.1.3. Phương pháp mô hình hóa
+Người 1: Vậy Mô hình là gì? Vì không thể ném cả nền kinh tế vào ống nghiệm, các nhà kinh tế dùng đồ thị và phương trình để đơn giản hóa thực tế. Giống như bản đồ Google Maps, nó chỉ hiển thị đường đi chứ không hiển thị từng cái cây, ngôi nhà, để người ta dễ nhìn đường. Mô hình kinh tế cũng cắt bỏ chi tiết thừa để thấy quy luật chính.
+
+Slide 18: 1.1.3. Nguyên lý Ceteris Paribus
+Người 1: Một trong những cách cắt bỏ chi tiết thừa đó là nguyên lý Ceteris Paribus - tiếng Latinh, nghĩa là "Các yếu tố khác không đổi". Nghĩa là khi ta xem xét A tác động tới B, ta phải nhốt tất cả các biến số khác vào một căn phòng, không cho chúng thay đổi, để đo lường thuần túy tác động của A.
+Người 2: Cô có thể cho một ví dụ thực tế được không ạ? Nghe chữ Latinh hơi trừu tượng ạ.
+
+Slide 19: Ví dụ về Ceteris Paribus
+Người 1: Cô lấy ngay ví dụ thực tế thế này. Có phát biểu: "Giá thịt lợn giảm thì người dân sẽ mua nhiều thịt lợn hơn". Câu này chỉ đúng Ceteris Paribus, tức là thu nhập của người dân đứng im, giá thịt bò đứng im, sức khỏe đứng im. Chứ nếu giá thịt giảm mà ngay lúc đó dịch tả lợn châu Phi bùng phát, người dân sợ hãi thì dù rẻ đến mấy cũng không ai mua cả! Sự xuất hiện của dịch bệnh đã phá vỡ giả định Ceteris Paribus.
+
+Slide 20: Phân tích Cận biên (Marginal Analysis)
+Người 1: Chuyển qua nội dung tiếp theo, đây là chìa khóa của mọi quyết định kinh tế: Phân tích cận biên. Từ "cận biên" nghĩa là "tăng thêm 1 đơn vị". Khi đứng trước lựa chọn, ta so sánh Lợi ích biên (MB) và Chi phí biên (MC). Nếu lợi ích thu thêm lớn hơn hoặc bằng chi phí bỏ thêm (MB >= MC), thì ta sẽ làm.
+Người 2: Tức là mình luôn nhìn vào cái "thêm vào" chứ không nhìn vào cái "đã mất" trong quá khứ phải không cô?
+Người 1: Cực kỳ xuất sắc! Việc đã lỡ rồi thì bỏ qua, ta chỉ cân đo đong đếm xem làm THÊM cái này thì được gì và tốn gì thôi.
+
+Slide 21: Kinh tế học thực chứng và Chuẩn tắc
+Người 1: Phần này giới thiệu 2 góc nhìn của kinh tế học. Thực chứng là mô tả sự thật "nó đang là gì" và có thể lấy số liệu chứng minh. Chuẩn tắc là đưa ra lời khuyên "nó NÊN là gì", mang tính chủ quan và đạo đức. Ví dụ, "Lương tối thiểu đang là 4 triệu" là thực chứng, còn nói "Chính phủ nên tăng lương để dân bớt khổ" là chuẩn tắc.
+
+Slide 22: 1.2.1. Các yếu tố đầu vào và Sự khan hiếm
+Người 1: Chúng ta sang phần 2 của bài. Khái niệm cốt lõi nhất: Sự khan hiếm. Vậy cái gì khan hiếm? Đó chính là các yếu tố đầu vào.
+
+Slide 23: 1.2.1.1. Nguồn lực (Các yếu tố đầu vào)
+Người 1: Bảng trên liệt kê 4 yếu tố đầu vào để sản xuất hàng hóa: Đất đai, Lao động, Vốn, và Khả năng khởi nghiệp. Bất cứ sản phẩm nào từ cái áo đến cái điện thoại đều cần 4 thứ này.
+
+Slide 24: 1.2.1.1. Chi tiết các loại Nguồn lực
+Người 1: Giải thích chi tiết hơn, Đất đai không chỉ là mặt bằng mà gồm mọi tài nguyên thiên nhiên như khoáng sản. Lao động là sức người. Vốn ở đây là máy móc, nhà xưởng chứ không đơn thuần chỉ là tiền mặt. Còn Khởi nghiệp là khả năng tổ chức ba yếu tố trên và dám chịu rủi ro.
+
+Slide 25: 1.2.1.2. Sự khan hiếm (Scarcity)
+Người 1: Vì 4 nguồn lực trên có giới hạn, nên ta có định nghĩa Sự khan hiếm. Sự khan hiếm là tình trạng tài nguyên không đủ đáp ứng nhu cầu vô tận của con người. Và các em lưu ý, tỷ phú như Elon Musk hay Phạm Nhật Vượng cũng phải chịu sự khan hiếm, đó là khan hiếm thời gian 24 giờ một ngày.
+Người 2: Vậy ra giàu đến mấy thì vẫn phải đối mặt với bài toán kinh tế học cô nhỉ!
+Người 1: Đúng thế em, không ai chạy thoát khỏi quy luật của sự khan hiếm cả.
+
+Slide 26: 1.2.2. Lựa chọn kinh tế và Chi phí cơ hội
+Người 1: Và hệ quả của sự khan hiếm: Khám hiếm ép ta phải Lựa chọn, và khi lựa chọn ta phải Đánh đổi (Trade-off). Em chọn đi học thì đánh đổi việc đi làm kiếm tiền. Chính phủ chọn mua xe tăng thì bớt tiền xây trường học.
+
+Slide 27: 1.2.2.2. Chi phí cơ hội (Opportunity Cost)
+Người 1: Từ sự đánh đổi đó, ta có một khái niệm rất quan trọng: Chi phí cơ hội. Nó là giá trị của "phương án tốt nhất bị bỏ qua" khi ta đưa ra lựa chọn.
+Người 2: Nó có phải là mình cộng dồn tất cả những thứ mình không chọn lại thành chi phí không cô?
+Người 1: Không em nhé! Nhớ kỹ chữ "phương án TỐT NHẤT bị bỏ qua", chứ không phải cộng gộp tất cả. Cô sẽ lấy ví dụ ngay bây giờ.
+
+Slide 28: Phân tích ví dụ Chi phí cơ hội
+Người 1: Nhìn vào ví dụ này. Em nhặt được 500k. Em có 3 lựa chọn: Mua giày (thích nhất), ăn lẩu (thích nhì), gửi tiết kiệm (thích thứ 3). Em chọn mua giày. Chi phí cơ hội của đôi giày lúc này là cơ hội đi ăn lẩu. Vì nếu không mua giày, em sẽ đi ăn lẩu chứ không đem gửi tiết kiệm. Và chi phí cơ hội không phải là 500k, vì 500k đó em nhặt được chứ không do em làm ra.
+
+Slide 29: 1.2.3. Đường giới hạn khả năng sản xuất (PPF)
+Người 1: Để vẽ hình sự đánh đổi đó, các nhà kinh tế dùng đường PPF. Đây là đồ thị biểu diễn các tổ hợp sản lượng tối đa của 2 hàng hóa mà nền kinh tế có thể sản xuất, nếu dùng sạch sành sanh nguồn lực 1 cách hiệu quả nhất.
+
+Slide 30: Các giả định của mô hình PPF
+Người 1: Để vẽ được PPF, chúng ta có 4 giả định: Chỉ sản xuất 2 hàng hóa, nguồn lực và công nghệ đứng im, và mọi nguồn lực đều được dùng hết hiệu suất. Đây chính là áp dụng quy tắc Ceteris Paribus đấy các em!
+
+Slide 31: Đồ thị 1.1. Đường giới hạn khả năng sản xuất (PPF)
+Người 1: Bây giờ, quan sát Đồ thị PPF. Các em nhìn kỹ đường cong trên hình. Nó cho thấy nếu ta sản xuất nhiều súng hơn, ta buộc phải sản xuất ít bơ lại, vì nguồn nhân lực chỉ có chừng đó. Nó minh họa sống động cho 4 khái niệm: Sự khan hiếm, đánh đổi, chi phí cơ hội và hiệu quả.
+
+Slide 32: Phân tích các điểm trên Đồ thị PPF (1/2)
+Người 1: Ta phân tích các điểm trên đồ thị. Những điểm nằm đúng TRÊN đường cong (A,B,C) là các điểm đạt hiệu quả, tức là dùng hết 100% công suất xã hội. Còn những điểm nằm TRONG đường cong là biểu hiện của sản xuất tồi, lãng phí tài nguyên hoặc xã hội đang có nhiều người thất nghiệp không chịu đi làm.
+Người 2: Vậy mình phải luôn cố gắng đẩy nền kinh tế nằm đúng trên cái vạch cong đó phải không cô?
+Người 1: Đúng vậy em, đó là trạng thái lý tưởng của hiệu quả kinh tế.
+
+Slide 33: Phân tích các điểm trên Đồ thị PPF (2/2)
+Người 1: Còn điểm nằm NGOÀI đường cong thì sao? Đó là giấc mơ không thể với tới với công nghệ và máy móc hiện tại. Điểm nằm ngoài đường cong chính là bức tường của sự khan hiếm chặn ta lại.
+
+Slide 34: Hình dáng của đường PPF và Chi phí cơ hội
+Người 1: Có một câu hỏi đặt ra: Tại sao đường PPF lại cong lồi ra ngoài mà không thẳng tắp? Lý do là Quy luật chi phí cơ hội tăng dần. 
+Người 2: Càng làm nhiều thì càng tốn kém hơn ạ?
+Người 1: Chính xác. Vì các nguồn lực không phù hợp như nhau cho mọi việc. Nếu em ép những người thợ may áo quần sang làm kỹ sư sản xuất máy móc, năng suất sẽ rất tệ, làm tổn thất rất nhiều áo quần chỉ để đổi lấy 1 cái máy. Chi phí cơ hội bị dội lên rất cao, tạo ra hình dáng cong lồi.
+
+Slide 35: Sự dịch chuyển của đường PPF
+Người 1: Vậy làm sao để đạt được cái điểm nằm ngoài đường cong kia? Giải pháp chính là: Phải có Tăng trưởng kinh tế! Khi ta phát hiện mỏ dầu mới, hoặc phát minh ra robot mới, đường PPF sẽ bung rộng và dịch chuyển ra ngoài. Nền kinh tế sẽ giàu có hơn!
+
+Slide 36: 3 Câu hỏi kinh tế cơ bản
+Người 1: Chuyển sang phần 3. Sự khan hiếm đó buộc mọi quốc gia phải giải quyết 3 câu hỏi xương máu: Sản xuất Cái Gì? Sản xuất Như Thế Nào? Và Sản xuất Cho Ai hưởng?
+
+Slide 37: Các hệ thống kinh tế
+Người 1: Cách trả lời 3 câu hỏi trên quyết định xem quốc gia đó theo hệ thống kinh tế nào. Có 3 kiểu: Thị trường tự do, Kế hoạch hóa tập trung và Kinh tế hỗn hợp.
+
+Slide 38: Hệ thống kinh tế thị trường (Market Economy)
+Người 1: Về kinh tế thị trường. Ở đây, giá cả đóng vai trò "Bàn tay vô hình". Cứ cái gì bán được giá cao, có lãi là doanh nghiệp đổ xô đi làm. Ưu điểm là rất hiệu quả, nhưng nhược điểm là dễ sinh ra hố sâu giàu nghèo.
+
+Slide 39: Hệ thống kinh tế kế hoạch (Command Economy)
+Người 1: Hệ thống kế hoạch hóa tập trung từng tồn tại ở thời kỳ bao cấp. Ở đây, Nhà nước đóng vai trò ra lệnh: Tháng này nhà máy dệt A phải dệt 1 vạn mét vải. Ưu điểm là công bằng, nhưng nhược điểm là thiếu động lực sáng tạo, hàng hóa làm ra thường kém chất lượng.
+
+Slide 40: Hệ thống kinh tế hỗn hợp (Mixed Economy)
+Người 1: Rút kinh nghiệm, hệ thống hiện tại của thế giới là: Kinh tế hỗn hợp. Nghĩa là cứ để thị trường chạy tự do tìm kiếm lợi nhuận, nhưng Chính phủ sẽ đứng ra làm "bảo vệ", thu thuế người giàu chia cho người nghèo, và xây dựng cầu đường, quân đội. Hầu hết các nước trên thế giới, kể cả Việt Nam hiện nay đều theo mô hình này.
+
+Slide 41: Câu hỏi 1 (Trắc nghiệm)
+Người 1: Bây giờ chúng ta cùng luyện tập nhé. Câu hỏi 1: Kinh tế học nghiên cứu về cái gì?
+Người 2: Dạ câu C ạ, cách thức xã hội phân bổ nguồn lực khan hiếm để thỏa mãn nhu cầu vô hạn.
+Người 1: Hoàn toàn chính xác, em nắm bài rất vững.
+
+Slide 42: Câu hỏi 2 (Trắc nghiệm)
+Người 1: Câu số 2. Một điểm nằm bên trong đường PPF biểu thị cái gì?
+Người 2: Bên trong thì chắc là làm ăn tệ, lãng phí. Nên đáp án là C: Có sự lãng phí nguồn lực hoặc thất nghiệp ạ!
+Người 1: Tuyệt vời.
+
+Slide 43: Câu hỏi 3 (Trắc nghiệm)
+Người 1: Câu số 3, câu này hơi khó đây. Câu nào thuộc Kinh tế học chuẩn tắc?
+Người 2: Chuẩn tắc là lời khuyên mang ý chí chủ quan "Nên là gì"... vậy em chọn câu C: "Chính phủ nên miễn học phí để khuyến khích học tập" ạ. Mấy câu kia toàn đưa ra số liệu thực tế thôi.
+Người 1: (Cười) Lớp mình học rất tốt! Câu C chính là quan điểm chủ quan, không thể đo lường đúng sai bằng số liệu.
+
+Slide 44: Bài tập tình huống: Chi phí cơ hội (1/2)
+Người 1: Cuối cùng là bài tập tình huống về chi phí cơ hội để các em làm quen. Bạn An đứng trước 2 lựa chọn: Đi học tiếng Anh tốn 3 triệu, hoặc đi làm thêm được 5 triệu.
+
+Slide 45: Bài tập tình huống: Chi phí cơ hội (2/2)
+Người 1: Yêu cầu đặt ra là: Nếu An chọn đi học tiếng Anh, chi phí cơ hội là bao nhiêu? Và An có nên đi học không?
+
+Slide 46: Hướng dẫn giải Bài tập tình huống
+Người 1: Các em nhìn lên hướng dẫn giải. Chi phí cơ hội không chỉ là 3 triệu tiền học phí (chi phí trực tiếp), mà còn phải cộng thêm 5 triệu tiền lương mất đi vì phải nghỉ làm (chi phí ẩn). Tổng chi phí cơ hội của việc đi học là 8 triệu!
+Người 2: Ôi, vậy là đi học đắt hơn mình tưởng cô nhỉ. Vậy có nên đi học không cô?
+Người 1: Quyết định dựa vào phân tích cận biên. Em chỉ nên đi học nếu em tin rằng kiến thức tiếng Anh thu được sẽ giúp em kiếm được công việc có lợi ích quy ra tiền lớn hơn 8 triệu trong tương lai. Nếu không, ở nhà đi làm thêm sẽ tốt hơn.
+
+Slide 47: Tổng kết buổi học
+Người 1: Chúng ta khép lại tiết học hôm nay. Các em hãy nhớ kỹ 4 chìa khóa: Khái niệm kinh tế học về sự khan hiếm, cách tính chi phí cơ hội, ý nghĩa đường cong PPF, và 3 hệ thống trả lời cho 3 câu hỏi sản xuất cốt lõi. Bài tập về nhà là hoàn thiện phần bài tập chương 1 trong giáo trình.
+
+Slide 48: Q&A
+Người 1: Tiết học kết thúc. Các em có câu hỏi gì thêm không? Nếu không, cô chào cả lớp và hẹn gặp lại ở buổi học tuần sau nhé!
+Người 2: Dạ chúng em chào cô ạ!

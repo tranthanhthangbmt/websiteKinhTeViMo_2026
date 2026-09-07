@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giáo án Kinh tế vi mô</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h2>Kinh tế vi mô</h2>
+                <p>Giáo án dọc - Học kỳ 2026</p>
+                <button class="mobile-close-btn" id="closeSidebar">&times;</button>
+            </div>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Tìm kiếm buổi học...">
+            </div>
+            <nav class="session-list" id="sessionList">
+                <!-- Session items will be dynamically injected here -->
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="main-header">
+                <button class="mobile-menu-btn" id="openSidebar">☰ Danh sách buổi</button>
+                <h1 id="currentSessionTitle">Chọn một buổi học</h1>
+            </header>
+
+            <div class="content-wrapper">
+                <!-- Highlight Box for Syllabus Requirements -->
+                <div class="syllabus-highlight" id="syllabusHighlight" style="display: none;">
+                    <div class="highlight-header">
+                        <span class="icon">🎯</span>
+                        <h3>Nội dung Đề cương Môn học Yêu cầu</h3>
+                    </div>
+                    <ul class="topics-list" id="topicsList">
+                        <!-- Topics will be injected here -->
+                    </ul>
+                </div>
+
+                <!-- Lesson Content -->
+                <div class="lesson-content" id="lessonContent">
+                    <div class="welcome-message">
+                        <h2>Chào mừng đến với hệ thống Giáo án Kinh tế vi mô</h2>
+                        <p>Vui lòng chọn một buổi học từ danh sách bên trái để bắt đầu.</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="logic.js"></script>
+</body>
+</html>
