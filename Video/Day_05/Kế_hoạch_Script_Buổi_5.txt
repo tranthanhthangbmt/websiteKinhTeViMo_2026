@@ -1,0 +1,161 @@
+Slide 1: Slide bìa
+Người 1: Chào các em. Chào mừng các em đến với Buổi học số 5. Hai buổi học trước, chúng ta đã lần lượt đóng vai Người mua (Cầu) và Người bán (Cung). Hôm nay, chúng ta sẽ đưa hai nhân vật này lên cùng một võ đài - đó là Thị trường - để xem họ tương tác, mặc cả với nhau như thế nào để tạo ra một mức Giá chung. Đồng thời, chúng ta sẽ học một công cụ cực kỳ lợi hại của dân kinh tế, đó là "Độ co giãn".
+
+Slide 2: Mục tiêu bài học
+Người 1: Bài hôm nay khá nặng về tư duy logic và toán học. Mục tiêu của chúng ta là: Xác định được điểm cân bằng thị trường; Hiểu cơ chế "bàn tay vô hình" dọn dẹp sự dư thừa hay thiếu hụt; Đánh giá tác hại của việc Chính phủ áp đặt Giá trần, Giá sàn; Tính toán Thặng dư phúc lợi; Và cuối cùng là làm chủ các công thức tính Độ co giãn. Các em chú ý tập trung nhé!
+
+Slide 3: Nội dung bài học
+Người 1: Bài học chia làm 4 phần lớn. Phần 1 là Trạng thái thị trường (Cân bằng, Dư thừa, Thiếu hụt). Phần 2 là Vai trò kiểm soát giá của Chính phủ. Phần 3 là Phúc lợi xã hội (CS và PS). Phần 4 là Độ co giãn.
+
+Slide 4: Khái niệm Cân bằng thị trường (Market Equilibrium)
+Người 1: Bắt đầu với khái niệm Cân bằng. Em hiểu cân bằng là gì? Là lúc hai bên vừa lòng nhau. Khối lượng hàng mà người bán muốn bán đúng bằng khối lượng hàng người mua muốn mua. Tại điểm đó, thị trường yên ắng, không ai muốn đẩy giá lên hay dìm giá xuống nữa. Ta gọi đó là Giá cân bằng (PE) và Lượng cân bằng (QE).
+
+Slide 5: Bảng số liệu: Trạng thái thị trường
+Người 1: Hãy nhìn Bảng 5-1. Đây là thị trường áo thun. Khi giá là 10k, rẻ quá, người mua đòi mua 100 cái (Qd), nhưng người bán chê rẻ chỉ làm 20 cái (Qs). Xảy ra Thiếu hụt. Nhưng khi giá lên đúng 30k, người mua muốn mua 60, người bán cũng đúng lúc làm ra 60. Khớp lệnh! Đây chính là điểm Cân bằng.
+
+Slide 6: Đồ thị: Điểm cân bằng thị trường
+Người 1: Trên đồ thị Hình 5-1, Cầu (D) dốc xuống, Cung (S) dốc lên. Hai đường này cắt nhau chéo qua như chữ X. Điểm giao nhau E đó chính là Điểm cân bằng thần thánh. Gióng sang trục tung ta có Giá cân bằng PE, gióng xuống trục hoành ta có Lượng cân bằng QE. 
+
+Slide 7: Trạng thái Dư thừa (Surplus)
+Người 1: Điều gì xảy ra nếu giá bị đẩy lên quá cao, mức P1? Nhìn đồ thị Hình 5-2. Tại P1, đường Cung S nằm tít ngoài (người bán hăng hái bán), còn đường Cầu D thụt lùi vào trong (người mua chê đắt). Đoạn chênh lệch này sinh ra Dư thừa. Hàng tồn kho chất đống. Vậy người bán phải làm gì để đẩy hàng?
+Người 2: Dạ dĩ nhiên là phải treo biển "Sale off" hạ giá xuống ạ!
+Người 1: Đúng. Việc hạ giá sẽ đẩy mức giá P1 từ từ tụt dốc về lại đúng điểm E. Đó là cơ chế tự điều chỉnh.
+
+Slide 8: Ví dụ về Dư thừa thị trường
+Người 1: Giống hệt mấy vụ "Giải cứu dưa hấu" hay "Giải cứu thanh long" vậy. Nông dân trồng ồ ạt, tung ra thị trường quá nhiều dưa hấu, trong khi người dân không ăn kịp. Dưa hấu ế chỏng chơ. Kết quả là giá dưa từ 15k/kg rớt thê thảm xuống 2k/kg. Giá tụt đến khi nào cung cầu gặp nhau lại thì thôi.
+
+Slide 9: Trạng thái Thiếu hụt (Shortage)
+Người 1: Ngược lại, nếu giá P2 nằm DƯỚI điểm cân bằng thì sao (Hình 5-3)? Rẻ quá, dân tình xếp hàng tranh nhau mua (Qd cao), trong khi chủ quán làm không xuể (Qs thấp). Chênh lệch này gọi là Thiếu hụt. Thấy khách đông, chủ quán lẳng lặng lấy bút xóa giá cũ, tăng giá mới lên. Giá lại từ từ leo dốc về lại điểm E.
+
+Slide 10: Ví dụ về Thiếu hụt thị trường
+Người 1: Các em nhớ đợt khủng hoảng xăng dầu cuối 2022 không? Giá xăng bị Nhà nước neo ở mức thấp hơn giá nhập khẩu. Kết quả là cây xăng bán càng nhiều càng lỗ, họ đóng cửa nghỉ bán. Người dân thì rồng rắn xếp hàng mòn mỏi chờ đổ xăng. Đó là ví dụ kinh điển của Thiếu hụt do giá nằm dưới điểm cân bằng.
+
+Slide 11: Bài tập: Xác định điểm cân bằng (1/2)
+Người 1: Bây giờ lấy giấy bút ra. Ta có hàm Cầu: Qd = -2P + 100 và hàm Cung Qs = 3P - 50. Câu 1: Tìm P và Q cân bằng. Câu 2: Nếu giá bằng 40 thì thị trường đang dư thừa hay thiếu hụt bao nhiêu?
+
+Slide 12: Bài tập: Xác định điểm cân bằng (2/2)
+Người 1: Rất cơ bản. Câu 1: Cân bằng tức là Qd = Qs. Cho -2P + 100 = 3P - 50. Chuyển vế đổi dấu, ta có 5P = 150. Suy ra PE = 30. Lấy 30 thay ngược vào Qd, ta được QE = 40. 
+Câu 2: Tại P = 40. Thay vào Qd được 20. Thay vào Qs được 70. Nhìn thấy ngay Qs > Qd. Vậy thị trường đang Dư thừa 1 lượng là: 70 - 20 = 50 triệu sản phẩm. Cực kỳ dễ ăn điểm!
+
+Slide 13: Cầu tăng (Dịch chuyển sang Phải)
+Người 1: Sang phần 3. Nếu điểm cân bằng đang yên ổn, đột nhiên mùa hè nóng kỷ lục, người ta đổ xô đi mua kem. Đường Cầu về kem sẽ dịch chuyển sang Phải (D1 sang D2). Cắt đường cung S tại điểm E2 mới. Kết quả: Giá kem TĂNG lên, và số lượng kem bán ra cũng TĂNG. Nhìn đồ thị Hình 5-4 là thấy ngay.
+
+Slide 14: Cung giảm (Dịch chuyển sang Trái)
+Người 1: Tình huống khác. Giá bột mì tăng mạnh, làm chi phí nướng bánh mì đắt đỏ. Đường Cung bánh mì sẽ co cụm dịch sang Trái (S1 sang S2). Cắt đường cầu tại E2 mới (Hình 5-5). Kết quả: Giá bánh mì TĂNG, nhưng lượng bánh mì bán ra lại GIẢM.
+
+Slide 15: Kiểm soát giá (Price Controls)
+Người 1: Đôi khi Chính phủ thấy thị trường tàn nhẫn quá, họ nhúng tay vào để kiểm soát giá. Có 2 chiêu thức: Giá Trần (Price Ceiling) tức là cấm bán đắt hơn mức này. Và Giá Sàn (Price Floor) tức là cấm mua rẻ hơn mức này.
+
+Slide 16: Giá Trần (Price Ceiling)
+Người 1: Giá Trần sinh ra để bảo vệ người đi mua (như công nhân đi thuê nhà). Vì muốn bảo vệ nên Giá Trần phải bắt buộc nằm THẤP HƠN Giá cân bằng tự nhiên. Nhưng hậu quả là gì? Nhìn Hình 5-6. Nó tạo ra một khoảng trống Thiếu hụt cực lớn. Nhà trọ khan hiếm, người ta phải lót tay, đút lót để thuê được nhà, sinh ra thị trường chợ đen.
+
+Slide 17: Giá Sàn (Price Floor)
+Người 1: Giá Sàn sinh ra để bảo vệ người bán (như nông dân bán lúa, hay công nhân bán sức lao động). Giá Sàn phải nằm CAO HƠN giá cân bằng. Hậu quả? Nhìn Hình 5-7. Nó sinh ra sự Dư thừa. Ví dụ áp lương tối thiểu quá cao, doanh nghiệp không gánh nổi chi phí sẽ sa thải công nhân. Kết quả là Dư thừa lao động, tức là Thất nghiệp!
+
+Slide 18: Thặng dư tiêu dùng (CS)
+Người 1: Tiếp theo, một khái niệm rất hay: Thặng dư. Thặng dư tiêu dùng (CS) đơn giản là món "lời" của người mua.
+Người 2: Có phải là đi chợ mặc cả được giá rẻ không cô?
+Người 1: Đúng bản chất luôn! Trong đầu em dự định mua cái áo 500k. Ra tới nơi nó đang sale còn 300k. Em mua được rẻ hơn 200k. 200k đó chính là Thặng dư tiêu dùng của em. Trên đồ thị, nó là cái tam giác kẹp giữa đường Cầu và đường Giá.
+
+Slide 19: Thặng dư sản xuất (PS)
+Người 1: Ngược lại, Thặng dư sản xuất (PS) là món "lời" của người bán. Vốn dĩ giá vốn ly chè chỉ 10k, nhưng thấy khách đông, bà chủ chém đẹp 25k. Bà ấy ăn lời 15k trên mức mong đợi. Đó là PS. Trên đồ thị, nó nằm trên đường Cung và dưới đường Giá.
+
+Slide 20: Đồ thị minh họa CS và PS
+Người 1: Hình 5-8 vẽ rất rõ. Tam giác màu xanh phía trên là của người mua (CS). Tam giác màu đỏ phía dưới là của người bán (PS). Cộng cả 2 mảng này lại, ta được Tổng thặng dư của toàn xã hội (Tổng Phúc lợi).
+
+Slide 21: Khái niệm Độ co giãn
+Người 1: Cuối cùng, vũ khí bí mật của dân kinh tế: Độ co giãn. Nó là máy đo sự "nhạy cảm". Đụng nhẹ vào giá một cái, xem lượng người mua giật mình nảy lên nhiều hay ít. Ta có 3 loại co giãn của Cầu: Theo giá, theo hàng hóa khác (chéo), và theo thu nhập.
+
+Slide 22: Co giãn của Cầu theo Giá (Ed)
+Người 1: Ed đo lường: Giá tăng 1% thì Lượng mua giảm bao nhiêu %? Công thức là phần trăm thay đổi của Q chia cho phần trăm thay đổi của P. Vì quy luật cầu nghịch biến, nên bấm máy tính xong số Ed lúc nào cũng ÂM. Đi thi các em cứ lấy trị tuyệt đối để dễ so sánh nhé.
+
+Slide 23: Công thức tính Co giãn điểm và Co giãn khoảng
+Người 1: Có 2 loại công thức. Nếu đề cho giá chạy từ điểm A sang điểm B, các em dùng Co giãn Khoảng. Nếu đề cho nguyên 1 cái phương trình Qd = aP + b, và hỏi ở ngay 1 mức giá cụ thể, các em dùng Co giãn Điểm: Ed = a * (P/Q). Ghi nhớ kỹ để không mất điểm oan.
+
+Slide 24: Phân loại Độ co giãn (|Ed|)
+Người 1: Lấy trị tuyệt đối xong, nếu |Ed| > 1: Cầu co giãn nhiều (hàng xa xỉ). Nhích giá lên xíu là khách bỏ chạy hết.
+Nếu |Ed| < 1: Cầu co giãn ít (hàng thiết yếu như gạo, thuốc men). Tăng giá gấp đôi, khách vẫn phải cắn răng mua.
+Còn = 1 là co giãn đơn vị, rất hiếm.
+
+Slide 25: Đồ thị minh họa các loại co giãn
+Người 1: Nhìn 3 cái đồ thị này. Hình 5-10 đường cầu nằm thoai thoải: Co giãn nhiều. Hình 5-11 đường cầu dốc đứng: Co giãn ít. Đường cầu càng đứng thì khách hàng càng trung thành (hoặc bị ép buộc phải mua).
+
+Slide 26: Các nhân tố ảnh hưởng đến Ed
+Người 1: Tại sao có món co giãn nhiều, món co giãn ít? Thứ nhất do tính thiết yếu: Nước mắm thì co giãn ít, du lịch châu Âu thì co giãn nhiều. Thứ hai là hàng thay thế: Trà chanh có cả chục quán, quán này tăng giá tao sang quán khác uống (co giãn nhiều). Nhưng điện lưới quốc gia EVN độc quyền, có tăng giá cũng đành chịu (co giãn cực ít). 
+
+Slide 27: Co giãn chéo của Cầu (Exy)
+Người 1: Giờ qua Co giãn chéo Exy. Đo xem giá thằng Y tăng 1% làm lượng mua thằng X biến động thế nào. 
+Người 2: Cái này để phân biệt hàng bổ sung với hàng thay thế đúng không cô? Hôm trước mình có học.
+Người 1: Giỏi! Nếu tính ra Exy DƯƠNG: Giá Pepsi tăng làm người ta mua Coca nhiều hơn -> Hàng thay thế! Nếu Exy ÂM: Giá Xăng tăng làm người ta mua Xe máy ít đi -> Hàng bổ sung! Exy bằng 0 thì Xăng và Coca chả liên quan gì nhau.
+
+Slide 28: Co giãn của Cầu theo Thu nhập (Ei)
+Người 1: Co giãn Thu nhập Ei. Lương em tăng 1% thì em thay đổi sức mua bao nhiêu %.
+Nếu Ei DƯƠNG: Em giàu lên, em mua nó nhiều hơn. Nó là Hàng bình thường (áo quần, thịt cá).
+Nếu Ei ÂM: Em giàu lên, em chê nó, em mua nó ít đi. Nó là Hàng thứ cấp (mì gói, xe buýt).
+
+Slide 29: Ứng dụng thực tiễn của Ei
+Người 1: Ei rất lợi hại trong kinh doanh. Đất nước đang bùng nổ kinh tế, thu nhập dân chúng tăng vùn vụt, em mở công ty bán đồ hiệu (Ei > 1) em sẽ trúng quả. Nhưng rủi có dịch bệnh, kinh tế suy thoái, mọi người nghèo đi, em mở quán ăn bình dân, cơm tấm sinh viên (Ei < 0) em lại đông khách đến lạ lùng.
+
+Slide 30: Bài tập nhanh về Co giãn Chéo và Thu nhập
+Người 1: Test nhanh não bộ. Exy = 1.2. Ei = -0.5. 
+Câu 1: X và Y là hàng gì? Câu 2: X là hàng gì? Nếu thu nhập tăng 10% thì lượng cầu X ra sao?
+Cả lớp lấy giấy nháp tự làm nhanh trong 1 phút.
+
+Slide 31: Đáp án bài tập nhanh
+Người 1: Hết giờ. Exy = 1.2 là số Dương, vậy X và Y là hàng Thay thế!
+Ei = -0.5 là số Âm, vậy X là hàng Thứ cấp!
+Thu nhập tăng 10%. Lấy -0.5 x 10% = -5%. Tức là lượng cầu X sẽ GIẢM 5%. Ai ra kết quả đúng giơ tay cô xem? Rất đông, tuyệt vời!
+
+Slide 32: Độ co giãn của Cung theo Giá (Es)
+Người 1: Cuối cùng, quay lại phe người bán. Độ co giãn của Cung (Es). Giá tăng 1% thì người bán tăng sản lượng được mấy %? Khác với Ed, cái Es này luôn DƯƠNG, vì P và Q cung đồng biến.
+
+Slide 33: Phân loại Độ co giãn của Cung (Es)
+Người 1: Phân loại y chang Cầu. Lớn hơn 1 là co giãn nhiều (nhà máy công nghiệp, ấn nút là đẻ ra hàng ngàn cái áo). Nhỏ hơn 1 là co giãn ít (trồng nông sản, phải chờ 6 tháng mới lớn). Bằng 0 là đường cung đứng sừng sững: Vé chung kết WC chỉ có 8 vạn chỗ, giá chợ đen có lên 1 tỷ 1 vé thì sân bóng cũng không thể đẻ thêm được cái ghế nào nữa.
+
+Slide 34: Các nhân tố ảnh hưởng đến Es
+Người 1: Yếu tố quyết định Es là tính linh hoạt của dây chuyền và Thời gian. Có thời gian, doanh nghiệp mới mở rộng được nhà xưởng. Ngắn hạn thì cứng nhắc, dài hạn thì uyển chuyển co giãn.
+
+Slide 35: Ví dụ: Yếu tố thời gian trong sản xuất
+Người 1: Ví dụ: Hôm nay giá thanh long đột ngột tăng x3. Dù nông dân thèm khát bán lắm, nhưng ngoài đồng chỉ có 1 tấn trái chín, muốn tăng nguồn cung cũng chịu (Co giãn ít). Nhưng 2 năm sau, cả làng chặt bỏ cây khác trồng thanh long, sản lượng cung ứng vút lên 100 tấn (Co giãn nhiều).
+
+Slide 36: Trắc nghiệm (1/5)
+Người 1: Vô phần cuối. 5 câu trắc nghiệm. Câu 1: Giá Trần do Chính phủ quy định (thấp hơn giá cân bằng) sinh ra cái gì?
+Người 2: Giá trần là ép bán rẻ. Rẻ thì tranh nhau mua, sinh ra Thiếu hụt ạ. Em chọn B!
+Người 1: Chuẩn!
+
+Slide 37: Trắc nghiệm (2/5)
+Người 1: Câu 2: Thặng dư tiêu dùng (CS) nằm ở đâu trên đồ thị?
+Người 2: Tiêu dùng là đường Cầu. Món hời này phải kẹp dưới đường cầu và trên mức giá thực tế. Em chọn C ạ.
+Người 1: Khắc cốt ghi tâm đồ thị rất tốt.
+
+Slide 38: Trắc nghiệm (3/5)
+Người 1: Câu 3: |Ed| = 1.5. Giá tăng 10% thì lượng cầu thay đổi sao?
+Người 2: Trị tuyệt đối là 1.5, vậy nhân với 10% ra 15%. Nhưng luật cầu là giá tăng thì lượng phải giảm. Vậy là Giảm 15%. Em chọn A!
+Người 1: Hoàn hảo. Rất tỉnh táo.
+
+Slide 39: Trắc nghiệm (4/5)
+Người 1: Câu 4: Co giãn chéo Exy = -2.
+Người 2: Co giãn chéo mà ra số Âm thì chắc chắn là "sống chết có nhau", hàng Bổ sung ạ. Đáp án B!
+Người 1: Rất nhanh nhẹn.
+
+Slide 40: Trắc nghiệm (5/5)
+Người 1: Câu 5: Mặt hàng nào Cầu ít co giãn với giá nhất?
+Người 2: Nước hoa, xe hơi, du lịch là hàng xa xỉ, nhạy cảm với giá lắm. Chỉ có Gạo tẻ là thiết yếu ăn hàng ngày, dù đắt cũng phải mua. Gạo ít co giãn nhất, em chọn C.
+Người 1: Quá xuất sắc!
+
+Slide 41: Bài tập tính toán (1/2)
+Người 1: Câu chốt hạ. Bài tập lớn 3 điểm. Cho Cầu P = -0.5Q + 100. Cung P = Q + 10. Hãy tính Thặng dư CS và PS tại điểm cân bằng.
+
+Slide 42: Bài tập tính toán (2/2) - Hướng dẫn
+Người 1: Bước 1: Cho hai phương trình bằng nhau: -0.5Q + 100 = Q + 10. Giải ra Qe = 60, thay vào P được Pe = 70.
+Bước 2: CS. Tìm giá Max chém đẹp nhất của đường Cầu (Q=0): Pmax = 100. Diện tích tam giác CS = 0.5 * (100 - 70) * 60 = 900.
+Bước 3: PS. Tìm giá Min rẻ mạt nhất của đường Cung (Q=0): Pmin = 10. Diện tích tam giác PS = 0.5 * (70 - 10) * 60 = 1800.
+Các em chép bài cẩn thận nhé, đi thi rất hay ra dạng này.
+
+Slide 43: Tổng kết bài học
+Người 1: Buổi 5 quá nhiều kiến thức. Tóm tắt lại: Thị trường tự dọn dẹp dư thừa/thiếu hụt để về cân bằng. Chính phủ đụng vào bằng Giá Trần/Giá Sàn là rách việc ngay. Phúc lợi đo bằng CS và PS. Còn Độ co giãn là máy đo độ nhạy của thị trường trước giá cả và thu nhập. 
+
+Slide 44: Q&A
+Người 1: Bài hôm nay nhiều công thức, ai chưa bấm máy ra kết quả ở slide 42 thì nán lại cô chỉ nhé. Mọi người còn câu hỏi nào không? ... 
+Người 2: Dạ bọn em theo kịp rồi ạ. 
+Người 1: Tốt, các em về ôn bài kỹ, chương 2 này là trọng tâm thi giữa kỳ đấy. Chào cả lớp!

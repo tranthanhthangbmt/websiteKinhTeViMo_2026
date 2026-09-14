@@ -1,0 +1,150 @@
+Slide 1: Slide bìa
+Người 1: Chào các em. Buổi trước chúng ta đã phân tích thị trường dưới lăng kính của những người đi mua hàng - tức là Cầu. Hôm nay ở Buổi 4, chúng ta sẽ đổi vai. Hãy tưởng tượng tất cả chúng ta đều là những ông chủ doanh nghiệp, những người bán hàng. Chúng ta sẽ cùng giải mã mảnh ghép còn lại của thị trường: Cung hàng hóa.
+
+Slide 2: Mục tiêu bài học
+Người 1: Mục tiêu của bài học hôm nay gồm 5 phần. Đầu tiên, hiểu rõ định nghĩa Cung và Lượng cung. Thứ hai, nắm được Quy luật Cung. Thứ ba, tương tự như Cầu, các em phải biết lập hàm số và vẽ đường cung. Thứ tư, chúng ta đi tìm 5 yếu tố cốt lõi chi phối nhà sản xuất làm dịch chuyển đường cung. Và cuối cùng, cũng phải phân biệt rạch ròi sự vận động dọc và sự dịch chuyển ngang của Cung.
+
+Slide 3: Nội dung bài học
+Người 1: Cấu trúc buổi học sẽ chia làm 4 phần. Phần 1: Các khái niệm cơ bản về Cung. Phần 2: Biểu cung, luật cung và đồ thị. Phần 3: Năm yếu tố làm dịch chuyển đường cung. Và cuối cùng, như thường lệ, chúng ta sẽ củng cố bằng bài tập tự luận và các câu hỏi trắc nghiệm tốc độ.
+
+Slide 4: Khái niệm Cung (Supply)
+Người 1: Bắt đầu nhé. Cung (ký hiệu là S) là số lượng hàng hóa mà người bán SẴN SÀNG và CÓ KHẢ NĂNG bán ra ở các mức giá khác nhau. Chú ý, cũng giống như Cầu, khái niệm Cung bị ràng buộc bởi 2 điều kiện sống còn: Phải "có khả năng" và phải "sẵn sàng".
+
+Slide 5: Hai điều kiện bắt buộc của Cung
+Người 1: Đi sâu vào 2 điều kiện này. "Có khả năng" nghĩa là gì? Là kho em phải có hàng, hoặc em có đủ tiền, đủ máy móc nhân công để sản xuất ra nó. Còn "Sẵn sàng" tức là em muốn bán nó để kiếm lời. Nếu nhà em trồng được 2 tấn lúa, nhưng em quyết định cất vào bồ để cả nhà ăn dần chứ không mang ra chợ, thì 2 tấn lúa đó KHÔNG tạo thành Cung. 
+
+Slide 6: Phân biệt Sản xuất và Cung ứng
+Người 1: Từ đó, ta phải phân biệt rõ Sản xuất và Cung ứng. Nông dân sản xuất được 10 tấn lúa, nhưng chỉ mang ra chợ bán 8 tấn, còn 2 tấn làm giống và ăn. Vậy Cung trên thị trường chỉ là 8 tấn thôi. Đừng nhầm lẫn cứ làm ra bao nhiêu là Cung bấy nhiêu nhé!
+Người 2: À, em hiểu rồi, cung ứng tức là chỉ tính cái phần thực sự ném ra thị trường để bán lấy tiền thôi đúng không cô?
+Người 1: Rất chính xác! 
+
+Slide 7: Khái niệm Lượng cung (Quantity Supplied)
+Người 1: Vậy còn Lượng Cung (Qs) thì sao? Lượng cung là số lượng cụ thể của một hàng hóa mà người bán sẵn sàng và có khả năng bán ở một mức giá cụ thể, trong một khoảng thời gian cụ thể. Ví dụ: Nếu giá bán là 20 ngàn, tôi sẽ bán 100 chiếc. Cái "100 chiếc" đó chính là Lượng cung.
+
+Slide 8: Phân biệt Cung và Lượng cung
+Người 1: Giống y hệt bên Cầu, chúng ta cần rạch ròi hai khái niệm này. "Cung" là một khái niệm tổng thể, bao trùm MỌI mức giá. Còn "Lượng cung" là một con số cụ thể, một điểm duy nhất tương ứng với MỘT mức giá cụ thể.
+
+Slide 9: Biểu cung, Luật cung và Đường cung
+Người 1: Chúng ta cùng bước sang phần tiếp theo để tìm hiểu về Biểu cung, Luật cung và vẽ Đồ thị đường cung.
+
+Slide 10: Biểu cung (Supply Schedule)
+Người 1: Nếu cô liệt kê các mức giá và lượng cung tương ứng vào một bảng, cô sẽ có "Biểu cung". Các em nhìn bảng 4-1. Khi giá là 10 ngàn, chủ trại chỉ muốn bán 10kg gạo. Nhưng khi giá vọt lên 50 ngàn, ông ấy sẵn sàng bung kho bán tới 50kg gạo. Các em thấy điều gì ở đây?
+Người 2: Dạ em thấy giá càng cao thì người ta càng muốn bán nhiều hơn ạ!
+Người 1: Quá chuẩn! Vì giá cao thì lãi nhiều, tội gì không bán mạnh đúng không?
+
+Slide 11: Cung cá nhân và Cung thị trường
+Người 1: Cái bảng vừa rồi là của 1 ông chủ trại, gọi là Cung cá nhân. Để tính Cung thị trường của cả nền kinh tế, ta chỉ việc cộng ngang lượng cung của tất cả các ông chủ lại với nhau tại cùng một mức giá.
+
+Slide 12: Ví dụ: Tính Cung thị trường
+Người 1: Ví dụ Bảng 4-2. Giá 10$, anh A bán 2, anh B và C thấy rẻ quá không thèm bán (0). Cung thị trường là 2. Nhưng khi giá lên 40$, cả 3 anh đều xông vào bán: 8 + 6 + 4 = 18. Rất dễ tính phải không?
+
+Slide 13: Quy luật Cung (Law of Supply)
+Người 1: Từ biểu cung, ta phát biểu được Quy luật Cung. Hoàn toàn ngược lại với Cầu. Ở Cung, Giá và Lượng cung tỉ lệ THUẬN. Nghĩa là Giá tăng thì Lượng Cung tăng, Giá giảm thì Lượng cung giảm. P và Qs đi cùng chiều với nhau.
+
+Slide 14: Giải thích Quy luật Cung
+Người 1: Vì sao lại có quy luật này? Tâm lý của nhà kinh doanh là tìm kiếm LỢI NHUẬN. Khi giá bán trên thị trường bay cao, mà chi phí sản xuất vẫn thế, tự nhiên biên lợi nhuận phình to ra. Bán 1 lời 3 dĩ nhiên thích hơn bán 1 lời 1. Thế là các doanh nghiệp đua nhau mở rộng quy mô. Đồng thời, những kẻ chưa làm nghề này thấy lợi nhuận ngon quá cũng nhảy vào gia nhập ngành. Cung tất yếu sẽ tăng.
+
+Slide 15: Ví dụ thực tiễn về Quy luật Cung
+Người 1: Hãy nhớ lại đại dịch COVID-19 năm 2020. Khẩu trang từ 50 ngàn/hộp lên 300 ngàn/hộp. Chuyện gì xảy ra? Các xưởng khẩu trang chạy máy 24/24. Không những thế, các công ty may mặc áo sơ mi cũng dẹp áo sang một bên để may khẩu trang vải. Giá tăng đã thu hút mọi nguồn lực tạo ra lượng cung khẩu trang khổng lồ. 
+
+Slide 16: Đồ thị Đường cung (Supply Curve)
+Người 1: Nhờ quan hệ đồng biến đó, khi vẽ Đồ thị Đường Cung (ký hiệu S), ta sẽ có một đường DỐC LÊN từ trái sang phải. Nó thể hiện rằng: Cứ P cao hơn thì ngóng xuống trục Q sẽ thấy số lượng lớn hơn. Các em nhớ nhé: Đường Cầu DỐC XUỐNG, Đường Cung DỐC LÊN!
+
+Slide 17: Hàm số Cung
+Người 1: Hàm số Cung cũng là hàm bậc nhất: Qs = c*P + d. Nhưng khác với cầu, hệ số c của Cung bắt buộc phải là số DƯƠNG vì P và Qs đồng biến với nhau.
+
+Slide 18: Hàm số Cung ngược
+Người 1: Tuy nhiên, khi giải toán, chúng ta thường viết nó dưới dạng hàm cung ngược: P = a*Qs + b (với a > 0). Lát nữa ta sẽ thực hành ngay dạng này nhé.
+
+Slide 19: Các yếu tố ảnh hưởng đến Cung
+Người 1: Vậy điều gì làm cho lượng cung ứng thay đổi ngay cả khi mức giá đứng im? Chúng ta cùng phân tích 5 nhân tố ngoài giá sau đây.
+
+Slide 20: Tổng quan các yếu tố làm dịch chuyển đường cung
+Người 1: Giống như Cầu, Cung cũng có 5 "kẻ thao túng" đứng đằng sau làm dịch chuyển cả đường đồ thị, dù cho Giá bán không hề thay đổi. Đó là: Công nghệ, Giá yếu tố đầu vào (chi phí), Chính phủ (Thuế/Trợ cấp), Số lượng người bán, và Kỳ vọng tương lai.
+
+Slide 21: 1. Trình độ Công nghệ (Technology - T)
+Người 1: Yếu tố số 1: Công nghệ. Khi có công nghệ mới, máy móc tiên tiến, năng suất tăng vọt làm cho chi phí sản xuất giảm đi rất nhiều. Chi phí giảm tức là lợi nhuận kỳ vọng tăng. Kết quả: Công nghệ tiến bộ luôn làm Cung tăng, đẩy đường Cung vút sang PHẢI. 
+
+Slide 22: 2. Giá cả của các Yếu tố sản xuất (Pf)
+Người 1: Yếu tố số 2 là túi tiền của doanh nghiệp: Chi phí yếu tố đầu vào (lương công nhân, điện nước, nguyên vật liệu).
+Người 2: Cô ơi, nếu tiền điện tăng giá thì nhà máy bị thu hẹp sản xuất đúng không ạ?
+Người 1: Rất chuẩn! Tiền điện, tiền xăng tăng làm chi phí đội lên. Lãi mỏng đi. Doanh nghiệp sẽ chán nản thu hẹp sản xuất. Lượng cung giảm, đường Cung lùi về bên TRÁI.
+
+Slide 23: Ví dụ: Giá yếu tố sản xuất
+Người 1: Ví dụ điển hình, khi giá chip bán dẫn tăng gấp đôi, Apple sẽ làm ít iPhone hơn nên Đường cung iPhone dịch sang Trái. Ngược lại, giá cám lợn rẻ đi một nửa, chi phí chăn nuôi rẻ, nông dân tái đàn ồ ạt nên Đường cung thịt lợn dịch sang Phải.
+
+Slide 24: 3. Chính sách của Chính phủ (Thuế)
+Người 1: Yếu tố số 3: Chính phủ. Ở góc độ doanh nghiệp, chính phủ đánh THUẾ (như thuế môi trường) thì nó chẳng khác gì việc chi phí sản xuất bị tăng lên. Bị đánh thuế thì lãi giảm, doanh nghiệp thu hẹp sản xuất, lượng Cung dịch sang TRÁI.
+
+Slide 25: 3. Chính sách của Chính phủ (Trợ cấp)
+Người 1: Ngược lại với thuế là TRỢ CẤP. Chính phủ cho tiền hoặc cho vay lãi suất 0%. Trợ cấp giống như một món quà làm giảm chi phí sản xuất. Có tiền trợ cấp thì doanh nghiệp mở rộng sản xuất, cung dịch sang PHẢI. Rất rành mạch!
+
+Slide 26: 4. Số lượng người bán / Quy mô ngành (N)
+Người 1: Yếu tố 4: Số lượng người bán. Cái này hiển nhiên. Càng nhiều cửa hàng mở ra thì tổng lượng cung càng lớn. Ví dụ phong trào mở quán trà chanh bùng nổ, đi đâu cũng thấy trà chanh kéo theo Cung trà chanh tăng mạnh, dịch sang Phải. Nếu ngành sập tiệm bỏ đi hàng loạt thì Cung dịch sang Trái.
+
+Slide 27: 5. Kỳ vọng của người bán (Expectations - E)
+Người 1: Yếu tố cuối: Kỳ vọng tương lai. Nếu người bán dự báo tuần sau lợn tăng giá sốc. Hôm nay họ sẽ làm gì?
+Người 2: Dạ họ sẽ cất đi không bán vội để chờ tuần sau bán cho được giá cao ạ!
+Người 1: Chính xác! Hành động "găm hàng" đó làm cho Lượng cung HIỆN TẠI trên thị trường sụt giảm nghiêm trọng. Vậy, kỳ vọng giá tương lai tăng thì Cung hiện tại dịch sang Trái. Rất hay!
+
+Slide 28: Vận động dọc và Dịch chuyển (Vận động dọc theo đường cung)
+Người 1: Lại bài toán cũ. Khi nào trượt dọc? Chỉ khi GIÁ của bản thân món hàng thay đổi. Trái cam từ 10k lên 20k, nông dân hái nhiều cam hơn đem bán. Điểm A trượt tút lên điểm B trên một đường thẳng không đổi. Nó gọi là "Thay đổi LƯỢNG CUNG".
+
+Slide 29: Sự dịch chuyển đường cung
+Người 1: Còn khi CÔNG NGHỆ tốt lên, hay THUẾ bị giảm xuống, nông dân làm ra nhiều hơn ở MỌI mức giá. Cả cái đồ thị bị nhấc bổng sang một vị trí mới S2 nằm bên phải. Đó gọi là "Sự thay đổi CUNG".
+
+Slide 30: Tóm tắt phân biệt: Cầu & Cung
+Người 1: Bảng 4-3 là thần chú cho cả 2 chương Cung Cầu. Nhớ cho kỹ nhé: Cái gì đổi do GIÁ thì sinh ra trượt dọc và dùng chữ "LƯỢNG". Cái gì đổi do "NGOÀI GIÁ" (công nghệ, thu nhập, thuế...) thì sinh ra Dịch chuyển và bớt chữ Lượng đi, chỉ dùng chữ "CẦU" hoặc "CUNG".
+
+Slide 31: Luyện tập & Thảo luận
+Người 1: Để củng cố lại toàn bộ kiến thức vừa học, các em hãy cùng trả lời nhanh 6 câu hỏi trắc nghiệm sau đây nhé.
+
+Slide 32: Trắc nghiệm nhanh (1/6)
+Người 1: Phản xạ nhanh nhé. Câu 1: Công nghệ laptop tốt lên thì sao?
+Người 2: Công nghệ là yếu tố ngoài giá, mà là công nghệ tốt nên cung tăng. Vậy đường Cung laptop dịch sang phải. Em chọn C ạ!
+Người 1: Chuẩn! Không cần suy nghĩ nhiều.
+
+Slide 33: Trắc nghiệm nhanh (2/6)
+Người 1: Câu 2: Bột mì (nguyên liệu) tăng giá. Thị trường bánh mì sẽ ra sao?
+Người 2: Bột mì là chi phí sản xuất. Chi phí tăng thì người bán lãi ít, người ta bớt bán đi. Vậy cung giảm, đường Cung dịch sang trái. Câu A ạ.
+Người 1: Khắc cốt ghi tâm rất tốt.
+
+Slide 34: Trắc nghiệm nhanh (3/6)
+Người 1: Câu 3: Thuế tiêu thụ đặc biệt đánh vào rượu bia tăng lên.
+Người 2: Thuế thì y hệt như chi phí bị tăng lên thôi ạ. Vẫn là cung giảm, đường cung dịch sang trái. Câu B cô ơi!
+Người 1: 10 điểm!
+
+Slide 35: Trắc nghiệm nhanh (4/6)
+Người 1: Câu 4: Giá mặt hàng X tăng lên thì người bán phản ứng thế nào?
+Người 2: Dạ do GIÁ của chính nó tăng, nên chỉ tạo ra sự trượt dọc đồ thị. Mình phải dùng từ "lượng cung". Lượng cung tăng, em chọn C.
+Người 1: Quá nhạy bén, các em phân biệt thuật ngữ cực kỳ xuất sắc.
+
+Slide 36: Trắc nghiệm nhanh (5/6)
+Người 1: Câu 5: Dự báo tuần sau sương muối làm giá cà phê tăng vọt. Hôm nay bà con nông dân làm gì?
+Người 2: Tuần sau giá cao thì tội gì hôm nay bán. Họ đóng kho găm hàng lại chờ tuần sau. Lượng cung hiện tại giảm mạnh. Em chọn B.
+Người 1: Giỏi lắm!
+
+Slide 37: Trắc nghiệm nhanh (6/6)
+Người 1: Câu cuối. Cốt lõi của Vận động dọc và Dịch chuyển khác nhau chỗ nào?
+Người 2: Khác nhau ở nguyên nhân cô ạ. Trượt dọc thì chỉ do Giá, còn dịch chuyển là do đủ thứ hầm bà lằng Công nghệ, Thuế, Kỳ vọng... Tóm lại là các yếu tố "Ngoài giá". Em chọn C.
+Người 1: Cả lớp tuyên dương bạn nhé!
+
+Slide 38: Bài tập Tự luận
+Người 1: Rồi, cuối cùng, giải toán nào. Ta có hàm cung $Qs = 10P - 50$. Câu 1: P = 15 thì Qs bằng mấy? Câu 2: Giá tối thiểu để ông này chịu mang hàng ra chợ bán là bao nhiêu?
+
+Slide 39: Hướng dẫn giải Bài tập Tự luận i
+Người 1: Ở Câu 1: Quá dễ, thay P=15 vào phương trình cung: $Qs = 10 \cdot 15 - 50 = 100$ tấn.
+Đối với Câu 2: Để doanh nghiệp chịu bán hàng, thì lượng hàng Qs bét nhất phải bằng 0, tức là bắt đầu nhúc nhích sản xuất. Cho $10P - 50 = 0 \implies 10P = 50$, vậy $P = 5$ triệu VNĐ. 
+
+Slide 40: Hướng dẫn giải Bài tập Tự luận i (Tiếp)
+Người 1: Kết luận lại, doanh nghiệp chỉ bắt đầu bán hàng khi giá thị trường đạt từ 5 triệu VNĐ trở lên. Tức là nếu giá thị trường rẻ hơn 5 triệu, ông chủ thà đắp chăn ngủ chứ quyết không sản xuất! Rất thực tế phải không các em?
+
+Slide 41: Tổng kết bài học
+Người 1: Vậy là chúng ta giải quyết xong mảng Cung. Bài học rút ra: Người bán rất yêu Lợi nhuận. Giá cao thì bán nhiều, sinh ra vận động dọc. Nhưng nếu bị đánh Thuế, chi phí vật tư điện nước tăng, họ sẽ nản lòng thu hẹp sản xuất làm dịch chuyển toàn bộ đường cung.
+
+Slide 42: Bài tập về nhà
+Người 1: Bài tập về nhà của các em là hãy ôn tập thật kỹ chương Cung & Cầu. Tuần tới, chúng ta sẽ thả Cung và Cầu vào chung một sàn đấu xem chúng "xáp lá cà" và quyết định Giá cân bằng thị trường như thế nào nhé!
+
+Slide 43: Q&A
+Người 1: Có bạn nào chưa theo kịp bài giải toán vừa rồi không? ... Nếu mọi người đều ổn, lớp mình nghỉ ở đây nhé. Chào các em!
+Người 2: Dạ vâng ạ, chúng em chào cô!

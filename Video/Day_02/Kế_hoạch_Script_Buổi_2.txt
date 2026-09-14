@@ -1,0 +1,146 @@
+Slide 1: Slide bìa
+Người 1: Chào các em. Chào mừng các em quay trở lại với môn học Kinh tế Vi mô. Cô là Nguyễn Đào Xuân. Hôm nay chúng ta sẽ bước sang Buổi 2. Ở buổi trước, chúng ta đã làm quen với khái niệm "sự khan hiếm" và "chi phí cơ hội". Hôm nay, nội dung sẽ khép lại Chương 1. Chúng ta sẽ cùng nhau tìm hiểu cách thức mà các quốc gia tổ chức giải quyết sự khan hiếm đó thông qua các mô hình kinh tế, đồng thời làm quen với 10 nguyên lý nền tảng của toàn bộ môn học này. Nửa cuối buổi học sẽ là các bài tập tình huống thực tế nhé!
+
+Slide 2: Mục tiêu bài học
+Người 1: Trước tiên, hãy cùng lướt qua mục tiêu của ngày hôm nay. Chúng ta có 5 mục tiêu chính. Các em sẽ phải: Thứ nhất, phân tích được 3 vấn đề kinh tế cốt lõi. Thứ hai, so sánh ưu nhược điểm của các hệ thống kinh tế trên thế giới. Thứ ba, nắm vững 10 nguyên lý kinh tế học của giáo sư Mankiw. Thứ tư, phân biệt rõ ràng giữa hai góc nhìn: thực chứng và chuẩn tắc. Và cuối cùng, chúng ta sẽ tổng ôn toàn bộ kiến thức để chuẩn bị cho bài kiểm tra sắp tới.
+Người 2: Dạ cô ơi, hôm nay mình có phải vẽ lại đường cong giới hạn năng lực sản xuất PPF như hôm trước không ạ?
+Người 1: Hôm nay chúng ta sẽ thiên về phân tích lý luận và đưa ra các quyết định chính sách nhiều hơn là tính toán đồ thị. Nhưng yên tâm là ở phần bài tập tình huống cuối giờ, chúng ta sẽ vẫn vận dụng lại những khái niệm đó đấy!
+
+Slide 3: Nội dung bài học
+Người 1: Về cấu trúc bài học, chúng ta chia làm 3 phần. Phần 1: Các vấn đề kinh tế cơ bản. Phần 2: Các mô hình của nền kinh tế. Phần 3: Phân loại kinh tế học và 10 Nguyên lý. Đặc biệt, ở phần cuối sẽ có rất nhiều bài tập và trò chơi trắc nghiệm nhanh để các em thi đua lấy điểm cộng nhé.
+
+Slide 4: Nguồn gốc của các vấn đề kinh tế
+Người 1: Ở buổi trước cô đã nhấn mạnh: Tài nguyên, nhân công, máy móc và thậm chí là thời gian của con người đều có giới hạn. Sự khan hiếm này không buông tha bất cứ quốc gia nào, dù là nghèo như châu Phi hay giàu có như nước Mỹ. Chính vì khan hiếm, xã hội bị dồn vào thế phải trả lời 3 câu hỏi sinh tử: Sản xuất CÁI GÌ? Sản xuất NHƯ THẾ NÀO? Và Sản xuất CHO AI?
+
+Slide 5: 1. Sản xuất CÁI GÌ? (What to produce?)
+Người 1: Câu hỏi đầu tiên và cũng là nền tảng nhất: Sản xuất CÁI GÌ? Điều này có nghĩa là nền kinh tế phải quyết định phân bổ nguồn lực hạn hẹp của mình vào những loại hàng hóa, dịch vụ nào, với số lượng bao nhiêu, và ưu tiên làm cái nào trước.
+Người 2: Thưa cô, vậy việc chọn sản xuất cái này thì mình đành phải hi sinh cái kia đúng không ạ? Nghe rất giống khái niệm Chi phí cơ hội mà cô đã dạy ở buổi 1!
+Người 1: Em tư duy rất sắc bén! Chính xác là như vậy. Quyết định sản xuất thêm 1 chiếc xe tăng đồng nghĩa với việc ta phải hi sinh một lượng thép để xây trường học. Chi phí cơ hội luôn hiện diện.
+
+Slide 6: Ví dụ thực tiễn: Sản xuất CÁI GÌ?
+Người 1: Nhìn vào thực tế, ở cấp độ vĩ mô quốc gia, Bắc Triều Tiên ưu tiên sản xuất vũ khí, trong khi nhiều nước khác ưu tiên nông nghiệp và y tế. Ở góc độ doanh nghiệp, Apple phải cân nhắc nên dồn tiền làm kính thực tế ảo Vision Pro hay tiếp tục nâng cấp iPhone. Đặc biệt nhất là đợt dịch COVID-19, nhiều nước đã phải yêu cầu các nhà máy ô tô lớn tạm dừng lắp ráp xe hơi để xoay sang sản xuất khẩu trang, máy thở khẩn cấp.
+
+Slide 7: 2. Sản xuất NHƯ THẾ NÀO? (How to produce?)
+Người 1: Sang câu hỏi thứ hai: Khi đã chốt được mặt hàng cần làm, ta phải tính đến việc: Làm nó BẰNG CÁCH NÀO? Đây là bài toán về tổ chức sản xuất. Ta nên dùng tỷ lệ máy móc nhiều hơn hay sức người nhiều hơn? Nên để doanh nghiệp tư nhân tự bơi hay cần các tập đoàn Nhà nước đứng ra lo liệu? 
+
+Slide 8: Ví dụ thực tiễn: Sản xuất NHƯ THẾ NÀO?
+Người 1: Lấy ví dụ ngành nông nghiệp trồng lúa. Tại sao ở Việt Nam hay Thái Lan, chúng ta thấy rất nhiều người nông dân lội ruộng cấy lúa thủ công? Đó gọi là phương thức "thâm dụng lao động", vì nhân công ở đây dồi dào và rẻ. Ngược lại, nếu sang Mỹ hay Úc, đất đai thì thẳng cánh cò bay mà dân số lại ít, họ sẽ dùng phương thức "thâm dụng vốn" và công nghệ: một chiếc máy gặt đập liên hợp cỡ lớn và máy bay phun thuốc tự động.
+Người 2: Tức là không có phương pháp nào là "chuẩn chung" cho toàn thế giới đúng không cô? Nước nào có lợi thế cái gì thì xài cái đó cho rẻ ạ?
+Người 1: Rất chính xác. Nguyên tắc ở đây là chọn ra sự kết hợp nào đem lại chi phí thấp nhất mà hiệu quả cao nhất phù hợp với hoàn cảnh của từng quốc gia.
+
+Slide 9: 3. Sản xuất CHO AI? (For whom to produce?)
+Người 1: Và câu hỏi thứ 3, hàng hóa làm ra rồi thì ai sẽ là người được hưởng thụ nó? Hay nói cách khác, của cải xã hội sẽ được phân chia như thế nào? Xã hội sẽ chấp nhận mức độ chênh lệch giàu nghèo ra sao?
+Người 2: Dạ câu này nghe có vẻ đụng chạm đến khía cạnh đạo đức và sự công bằng cô nhỉ? Vì nếu cứ ai giàu mới được mua thì người nghèo lấy gì mà dùng ạ?
+Người 1: Em đã chạm đúng vào điểm nóng nhất của kinh tế học rồi đấy! Câu hỏi "Sản xuất cho ai" là bài toán đau đầu nhất, vì nó luôn đòi hỏi sự đánh đổi khốc liệt giữa "hiệu quả kinh tế" và "công bằng xã hội".
+
+Slide 10: Ví dụ thực tiễn: Sản xuất CHO AI?
+Người 1: Trong một nền kinh tế thị trường thuần túy, quy luật là tiền trao cháo múc: ai có tiền thì người đó có quyền hưởng thụ. Nhưng thử nghĩ xem, với những dịch vụ cốt lõi như giáo dục hay khám chữa bệnh thì sao? Nếu cứ ai có tiền mới được đi viện chữa bệnh thì xã hội sẽ rất hỗn loạn. Do đó, các nhà hoạch định chính sách thường phải can thiệp để chia sẻ rủi ro, hỗ trợ người yếu thế.
+
+Slide 11: Hệ thống kinh tế là gì?
+Người 1: Cách mà mỗi quốc gia trả lời 3 câu hỏi (Cái gì - Như thế nào - Cho ai) sẽ định hình nên "Hệ thống kinh tế" của họ. Nhìn chung trên thế giới từng tồn tại 3 hệ thống chính: Kinh tế chỉ huy (Kế hoạch hóa tập trung), Kinh tế thị trường tự do, và Kinh tế hỗn hợp.
+
+Slide 12: Hệ thống 1: Kinh tế chỉ huy (Command Economy)
+Người 1: Đầu tiên là Kinh tế chỉ huy, thứ mà nước ta cũng từng áp dụng trong thời kỳ bao cấp. Ở mô hình này, Nhà nước nắm trong tay toàn bộ tư liệu sản xuất từ mảnh ruộng đến cái máy cày. Một "Ủy ban Kế hoạch Trung ương" sẽ ngồi tính toán rồi giao chỉ tiêu xuống: Tháng này hợp tác xã A trồng 10 tấn ngô, nhà máy B dệt 1000 mét vải. Không ai được quyền tự ý sản xuất hay tự định giá bán cả.
+
+Slide 13: Đánh giá mô hình Kinh tế chỉ huy
+Người 1: Điểm mạnh lớn nhất của nó là Nhà nước có thể dồn toàn bộ nguồn lực quốc gia cho một mục tiêu sống còn, ví dụ như thời chiến tranh, đồng thời nó chia sẻ mức sống khá đồng đều cho mọi người. Nhưng nhược điểm lại vô cùng chí mạng: Thông tái bị tắc nghẽn. Các cán bộ trên văn phòng không thể biết được dân đang khát khao cái gì, dẫn đến cái thừa cứ làm, cái thiếu lại không có. Quan trọng nhất, nó tạo ra tâm lý ỷ lại, triệt tiêu động lực làm việc và đổi mới.
+
+Slide 14: Hệ thống 2: Kinh tế thị trường tự do (Free Market)
+Người 1: Ở thái cực hoàn toàn đối lập là Kinh tế thị trường tự do. Nhà nước gần như đứng ngoài cuộc. Quyền sở hữu tài sản hoàn toàn thuộc về tư nhân. Mọi thứ được định đoạt bởi sự tương tác của hàng triệu người mua và người bán trên thị trường.
+Người 2: Nếu không ai quản lý thì xã hội có bị hỗn loạn không cô? Ai bảo họ phải sản xuất thứ gì ạ?
+Người 1: Nhà kinh tế học Adam Smith gọi đó là "Bàn tay vô hình" đấy em. Chính giá cả sẽ dẫn đường. Người tiêu dùng thích trà sữa, giá trà sữa sẽ cao, doanh nghiệp thấy có lãi tự khắc mở quán trà sữa. Họ làm vì lợi nhuận cá nhân, nhưng lại vô tình thỏa mãn đúng nhu cầu của xã hội. 
+
+Slide 15: Đánh giá mô hình Kinh tế thị trường tự do
+Người 1: Ưu điểm của mô hình này là cực kỳ năng động. Cạnh tranh sinh tồn buộc các hãng phải liên tục tung ra sản phẩm mới, cải tiến công nghệ, giảm giá thành. Nhưng mặt tối của nó là gì? Sự phân hóa giàu nghèo ngày càng tàn khốc. Thêm vào đó, nếu thả cửa, doanh nghiệp vì siêu lợi nhuận sẵn sàng gây ô nhiễm môi trường, phá rừng, hay tạo ra độc quyền ép giá khách hàng.
+
+Slide 16: Hệ thống 3: Kinh tế hỗn hợp (Mixed Economy)
+Người 1: Rút kinh nghiệm từ những thất bại của cả 2 mô hình trên, thế giới hiện đại xoay trục sang Kinh tế hỗn hợp. Trong mô hình này, thị trường vẫn đóng vai trò trung tâm tạo ra của cải. Nhưng Nhà nước không khoanh tay đứng nhìn, mà sẽ nhảy vào sân làm trọng tài và "sửa chữa" những lỗi lầm của thị trường. Hầu hết các quốc gia hiện nay, kể cả các nước tư bản nhất, đều theo mô hình hỗn hợp này.
+
+Slide 17: Vai trò của Nhà nước trong Kinh tế hỗn hợp
+Người 1: Trong kinh tế hỗn hợp, vai trò của Nhà nước rất rõ ràng: Thiết lập hành lang pháp lý vững chắc, làm đường sá, quốc phòng, y tế dự phòng (những thứ tư nhân chê vì không có lãi). Đồng thời, thu thuế của người giàu để phân phối lại cho người nghèo, và quan trọng nhất là bơm hoặc hút tiền ra để cứu nền kinh tế khi bị lạm phát hay khủng hoảng.
+
+Slide 18: Kinh tế học Thực chứng (Positive Economics)
+Người 1: Gác lại các mô hình, chúng chúng ta đi vào lăng kính phân tích. Kinh tế học có hai góc nhìn. Thứ nhất là Kinh tế học Thực chứng. Nó giống như người làm khoa học: Quan sát thực tế một cách khách quan, ghi nhận số liệu và mô tả quy luật nhân quả "Nó LÀ gì?".
+Người 2: Ví dụ như con số "Lạm phát năm 2023 là 3,25%" đúng không cô? Vì nó là con số có thể đi kiểm tra được ạ!
+Người 1: Chuẩn xác! Dù em có vui hay buồn thì con số lạm phát đó vẫn là sự thật không thay đổi. Những phát biểu như vậy là thực chứng.
+
+Slide 19: Kinh tế học Chuẩn tắc (Normative Economics)
+Người 1: Trái lại, Kinh tế học Chuẩn tắc lại giống như một chính trị gia. Nó mang tính chủ quan, phản ánh quan điểm cá nhân, đạo đức về việc "Thế giới NÊN như thế nào". Ví dụ: "Chính phủ nên đánh thuế cao vào đồ uống có đường để giảm béo phì". Sẽ có chuyên gia ủng hộ, có chuyên gia phản đối. Nó không thể được chứng minh đúng sai bằng số liệu.
+
+Slide 20: Giới thiệu 10 Nguyên lý của Kinh tế học (Mankiw)
+Người 1: Phần quan trọng tiếp theo, Giáo sư Gregory Mankiw của ĐH Harvard đã xuất sắc cô đọng toàn bộ bộ môn khổng lồ này thành 10 nguyên lý. Nó là xương sống của mọi khóa học kinh tế. Trong đó, 4 nguyên lý đầu nói về cách con người ra quyết định, 3 cái tiếp theo nói về cách con người tương tác, và 3 cái cuối thuộc về vĩ mô - sự vận hành của cả hệ thống.
+
+Slide 21: Con người ra quyết định như thế nào? (Nguyên lý 1 - 2)
+Người 1: Nhóm 1, Nguyên lý 1: "Con người đối mặt với sự đánh đổi". Cụm từ "Không có bữa trưa nào là miễn phí" thể hiện rõ điều này. Muốn có điểm A thì bớt thời gian chơi game, muốn bảo vệ môi trường thì phải chịu chi phí sản xuất cao hơn. 
+Và từ đó dẫn đến Nguyên lý 2: Chính là Chi phí cơ hội! Chi phí của một món đồ không chỉ là số tiền ghi trên mác, mà là tất cả những gì em phải từ bỏ để chạm được vào nó.
+
+Slide 22: Con người ra quyết định như thế nào? (Nguyên lý 3 - 4)
+Người 1: Nguyên lý 3: "Người duy lý suy nghĩ tại điểm cận biên". Con người khôn ngoan không nhìn vào quá khứ, họ chỉ nhìn vào thay đổi CẬN BIÊN - tức là nếu làm thêm 1 đơn vị nữa thì "thêm được bao nhiêu lợi" so với "mất thêm bao nhiêu tiền".
+Nguyên lý 4: "Con người phản ứng với các khuyến khích". Đây là cơ sở để nhà nước điều hành chính sách. Ví dụ đánh thuế carbon thì các hãng lập tức chạy đua làm xe điện thay cho xe chạy xăng. Hành vi con người thay đổi rất nhạy bén với túi tiền.
+
+Slide 23: Con người tương tác với nhau như thế nào? (Nguyên lý 5 - 6)
+Người 1: Nhóm 2. Nguyên lý 5: "Thương mại làm cho mọi người đều có lợi". Tại sao Việt Nam bán gạo cho Nhật, rồi lại nhập ô tô từ Nhật? Vì nếu ta tự đóng ô tô thì rất đắt đỏ, thay vào đó ta tập trung trồng lúa vì ta làm giỏi hơn, rồi mang đi đổi. Cả hai cùng lợi.
+Nguyên lý 6: Nhắc lại Adam Smith, "Thị trường thường là phương thức tốt để tổ chức hoạt động kinh tế", nơi bàn tay vô hình của giá cả kết nối nhu cầu người mua với năng lực của người bán một cách vi diệu nhất.
+
+Slide 24: Con người tương tác với nhau như thế nào? (Nguyên lý 7)
+Người 1: Nhưng thị trường không hoàn hảo. Nguyên lý 7 khẳng định: "Đôi khi chính phủ có thể cải thiện được kết cục của thị trường". Nếu một siêu thị lợi dụng khan hiếm để đẩy giá khẩu trang lên 500k/hộp, chính phủ phải vào cuộc xử phạt ngay lập tức. Đó là khi bàn tay vô hình cần sự hỗ trợ của "bàn tay hữu hình" nhà nước.
+
+Slide 25: Sơ đồ Tổng kết Chương 1
+Người 1: Tóm lại, đây là sơ đồ Mindmap toàn cảnh Chương 1. Sự khan hiếm là ngọn nguồn sinh ra bài toán Lựa chọn và Chi phí cơ hội. Khan hiếm cũng bắt chúng ta trả lời 3 câu hỏi cơ bản bằng 3 mô hình kinh tế. Kinh tế học sẽ dùng cả 2 lăng kính Vi mô - Vĩ mô, Thực chứng - Chuẩn tắc để phân tích. Cô khuyên các em chụp lại màn hình này, nó sẽ giúp các em không bị lạc lối khi ôn thi.
+
+Slide 26: Thảo luận 1: Phân loại Thực chứng / Chuẩn tắc
+Người 1: Được rồi, bây giờ gác lý thuyết sang một bên. Hãy đánh thức não bộ của các em bằng phần Thảo luận thực hành! Các em nhìn lên bảng, có 5 phát biểu. Cô cho 1 phút. Hãy xác định xem phát biểu nào là Thực chứng (sự thật khách quan) và cái nào là Chuẩn tắc (lời khuyên chủ quan). 
+
+Slide 27: Thảo luận 1: Hướng dẫn giải
+Người 1: Hết giờ. Chúng cùng xem đáp án. Câu 1 (tỷ lệ lạm phát) và câu 3 (tăng thuế làm giảm đầu tư) hoàn toàn là Thực chứng. Nếu có dữ liệu, ta chứng minh được nó đúng hay sai. Còn câu 2, 4 và 5 chứa những từ khóa rực đỏ như "quá thấp", "nên", "cần đóng thuế nhiều hơn". Đây đậm chất là những khuyến nghị mang tính ý chí, đạo đức. Vì thế chúng là Chuẩn tắc!
+
+Slide 28: Thảo luận 2: Phân loại Vi mô / Vĩ mô
+Người 1: Bài số 2. Phân tách rạch ròi lăng kính Vi mô (kính lúp) và Vĩ mô (bức tranh toàn cảnh). Nhìn vào 5 tình huống trên bảng. Cô mời bạn Bình cho cô biết ý kiến của em về câu 1 và câu 2.
+Người 2: Dạ thưa cô. Câu 1 nói về giá mặt hàng thép, tức là chỉ một nhóm ngành cụ thể, nên chắc chắn là Vi mô ạ. Câu 2 nói về "tổng sản lượng quốc gia" - đụng đến cả nước rồi, quy mô rất lớn nên phải là Vĩ mô ạ!
+
+Slide 29: Thảo luận 2: Hướng dẫn giải
+Người 1: Bình giải thích rất sắc sảo! Các em nhìn tiếp, câu 3 về 1 cậu sinh viên chọn giờ đi làm, câu 5 hãng Apple định giá bán một cái điện thoại... những chủ thể đơn lẻ này là đối tượng của Vi mô. Còn câu 4, "khủng hoảng kinh tế toàn cầu", không thể nào là Vi mô được, nó là hiện tượng Vĩ mô kinh điển. Các em phân biệt rất tốt.
+
+Slide 30: Thảo luận 3: Bài toán Lợi ích Cận biên
+Người 1: Thử thách nâng cao đây. Tình huống: Chuyến bay Hà Nội - Đà Nẵng, chi phí bình quân chia đều ra là 2 triệu đồng/ghế. Gần giờ cất cánh, máy bay còn 10 ghế trống. Bỗng một hành khách chạy tới xin mua vé phút chót với giá ưu đãi chỉ 1 triệu đồng. Đứng ở góc độ người quản lý kinh doanh, em có bán không?
+Người 2: Chà... nếu chi phí gốc là 2 triệu, mà bán 1 triệu thì lỗ 1 triệu mất cô ơi! Không bán ạ, thà để ghế trống còn hơn hạ giá làm hỏng thương hiệu!
+
+Slide 31: Thảo luận 3: Hướng dẫn giải
+Người 1: Nghe rất hợp lý đúng không? Nhưng kinh tế học lại bảo: BÁN NGAY ĐI! Tại sao? Áp dụng Nguyên lý 3: Hãy nghĩ tại điểm cận biên! Chuyến bay đằng nào cũng cất cánh, thêm 1 vị khách có làm tốn thêm xăng không? Không đáng kể. Hãng chỉ tốn thêm một suất ăn nhẹ và một chai nước suối - gọi là "Chi phí cận biên" (khoảng 50.000đ). Trong khi đó, người ta trả em 1 triệu đồng - đó là "Lợi ích cận biên". Lợi ích 1 triệu lớn hơn rủi ro 50.000đ, lợi nhuận ròng của em tự nhiên tăng thêm 950.000đ. Người duy lý sẽ chớp lấy cơ hội này!
+
+Slide 32: Thảo luận 4: Chi phí cơ hội (Opportunity Cost)
+Người 1: Tình huống số 4, quay lại với nỗi ám ảnh mang tên Chi phí cơ hội. Bạn có trong tay một vé miễn phí xem ca sĩ A (vé không bán lại được). Do đi xem ca sĩ A, bạn không thể đi xem liveshow ca sĩ B diễn cùng lúc. Được biết, vé xem ca sĩ B bán giá 500k, nhưng giá trị tinh thần bạn nhận được nếu đi xem B đáng giá tới 800k. Vậy, chi phí cơ hội của việc cầm vé đi xem A là bao nhiêu?
+
+Slide 33: Thảo luận 4: Hướng dẫn giải
+Người 1: Chìa khóa ở đây là "Giá trị ròng bị bỏ qua". Phân tích thử phương án bị bỏ qua (xem ca sĩ B): Lợi ích là 800k, chi phí mua vé B là 500k. Vậy nếu em đi xem B, em sẽ có lợi ích ròng là 800k - 500k = 300k.
+Bây giờ, vì em vác xác đi xem ca sĩ A, em đã để vuột mất khoảng lãi ròng 300k đó! Chi phí cơ hội trong trường hợp này chính là 300k. Các em thấy không, kinh tế học tính toán giá trị ẩn cực kỳ chi li.
+
+Slide 34: Thảo luận 5: Mô hình kinh tế thực tiễn
+Người 1: Câu thảo luận cuối cùng. Nước Việt Nam chúng ta đang áp dụng mô hình kinh tế nào trong 3 mô hình trên? Và theo các em, Nhà nước mình đã trả lời câu hỏi "Sản xuất cho ai" bằng những hành động thực tế nào?
+Người 2: Dạ em nghĩ là Kinh tế hỗn hợp ạ. Em thấy mình có cả chợ đen, siêu thị tư nhân... mà điện nước lại do Nhà nước quản. 
+
+Slide 35: Thảo luận 5: Hướng dẫn giải
+Người 1: Chính xác. Nền kinh tế thị trường định hướng XHCN của Việt Nam chính là hình thái của "Kinh tế hỗn hợp". Việc phân phối tài sản (Cho ai) không phó mặc hoàn toàn cho tiền bạc. Hãy nhìn vào việc Nhà nước xây các khu nhà ở xã hội với giá ưu đãi cho công nhân, phát thẻ Bảo hiểm Y tế miễn phí cho người nghèo và trẻ em. Đó chính là sự can thiệp của chính phủ để nắn lại dòng phân phối, đảm bảo xã hội phát triển nhân văn hơn.
+
+Slide 36: Câu hỏi Trắc nghiệm nhanh (1/3)
+Người 1: Nào, dọn đường cho bài kiểm tra sắp tới bằng 3 câu trắc nghiệm nhanh "đếm giây" nhé. Câu 1: Tình huống nào thể hiện sự Đánh đổi? A, B hay C?
+Người 2: Dạ câu D ạ. Học hay đi chơi, y tế hay quốc phòng, đầu tư hay chia tiền... tất cả đều là "có cái này thì mất cái kia".
+Người 1: Xuất sắc!
+
+Slide 37: Câu hỏi Trắc nghiệm nhanh (2/3)
+Người 1: Câu số 2. Trong mô hình kinh tế chỉ huy, ai là người quyết định sản xuất mặt hàng gì? A, B, C hay D?
+Người 2: Kinh tế chỉ huy thì không có chỗ cho thị trường hay người mua tự quyết định đâu ạ. Đáp án D: Cơ quan kế hoạch trung ương của Chính phủ ạ!
+Người 1: Rất chuẩn bài!
+
+Slide 38: Câu hỏi Trắc nghiệm nhanh (3/3)
+Người 1: Câu chốt cuối cùng. Minh họa nào sau đây nói lên nguyên lý "Con người phản ứng với các khuyến khích"?
+Người 2: Tăng phạt để giảm tai nạn, thưởng tiền để nhân viên hăng say, đổi khẩu vị khi giá cao. Đều là hành vi phản ứng với tác động. Câu D ạ!
+Người 1: Phản xạ cực kỳ nhanh! Cả lớp mình đã nắm rất chắc tinh thần cốt lõi của môn học.
+
+Slide 39: Tổng kết bài học
+Người 1: Chúng ta khép lại buổi học thứ 2 rất năng suất. Hôm nay các em đã mở rộng tầm nhìn, hiểu được nguyên lý sâu xa khiến nền kinh tế phải chạy vạy giải quyết 3 câu hỏi bằng các mô hình tổ chức. Và 10 nguyên lý của Mankiw sẽ là lăng kính để chúng ta nhìn nhận mọi vấn đề trong xã hội. Quan trọng nhất, mong các em sẽ tập thói quen tư duy "cận biên" - đừng luyến tiếc chi phí chìm, hãy so sánh cái tăng thêm và mất thêm. 
+Nhiệm vụ về nhà: Ôn lại sạch sẽ Chương 1. Đầu buổi 3, chúng ta sẽ có bài kiểm tra trắc nghiệm 15 phút.
+
+Slide 40: Q&A
+Người 1: Trước khi kết thúc, có ai còn vướng mắc gì ở 5 bài tập thảo luận vừa rồi không? ... Nếu mọi người đều ổn thỏa, chúng ta nghỉ ở đây. Chào các em và hẹn gặp lại tuần sau!
+Người 2: Dạ chúng em chào cô ạ! Chúc cô cuối tuần vui vẻ!

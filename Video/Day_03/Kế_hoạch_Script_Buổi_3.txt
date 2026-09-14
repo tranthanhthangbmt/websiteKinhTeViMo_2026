@@ -1,0 +1,159 @@
+Slide 1: Slide bìa
+Người 1: Chào các em. Chào mừng các em quay trở lại với môn học Kinh tế Vi mô. Cô là Nguyễn Đào Xuân. Hôm nay chúng ta sẽ bắt đầu Buổi 3, đánh dấu việc chúng ta bước sang một chương hoàn toàn mới và cực kỳ quan trọng: Chương 2 - Thị trường và Cung cầu hàng hóa. Ở buổi hôm nay, chúng ta sẽ tập trung giải phẫu một nửa của thị trường, đó chính là "Cầu hàng hóa" - đại diện cho những người đi mua hàng như cô và các em.
+
+Slide 2: Mục tiêu bài học
+Người 1: Trước khi bắt đầu, hãy xem qua 5 mục tiêu của buổi học hôm nay. Đầu tiên, chúng ta sẽ tìm hiểu Thị trường là gì và nó vận hành ra sao. Tiếp theo, các em phải nắm thật chắc định nghĩa Cầu, Lượng cầu và Quy luật Cầu. Thứ ba, chúng ta sẽ học cách viết phương trình Toán học cho Cầu và vẽ nó lên đồ thị. Thứ tư, chúng ta đi tìm những "kẻ giấu mặt" làm thay đổi nhu cầu mua sắm của con người. Và cuối cùng, phân biệt rõ ràng sự trượt dọc và sự dịch chuyển của một đường cầu. 
+Người 2: Nghe có vẻ hôm nay sẽ có nhiều bài tập vẽ đồ thị và tính toán hơn hẳn buổi trước cô nhỉ?
+Người 1: Đúng vậy em. Bắt đầu từ buổi này, Toán học và Đồ thị sẽ là hai công cụ chính mà chúng ta dùng để phân tích hành vi con người. Các em nhớ lấy giấy bút ra nhé!
+
+Slide 3: Nội dung bài học
+Người 1: Cấu trúc bài học hôm nay chia làm 4 phần chính. Phần 1: Khái quát về Thị trường. Phần 2: Đi sâu vào khái niệm Cầu hàng hóa. Phần 3: Phân tích các yếu tố tác động đến Cầu, làm dịch chuyển đường Cầu. Và Phần 4 là phần Bài tập luyện tập, tính toán và trắc nghiệm thực hành để các em nắm vững bài ngay tại lớp.
+
+Slide 4: Thị trường
+Người 1: Chúng ta cùng bước vào phần đầu tiên: Khái quát về Thị trường.
+
+Slide 5: Thị trường là gì?
+Người 1: Bắt đầu với khái niệm đầu tiên. Khi nghe tới chữ "Thị trường", các em nghĩ tới cái gì?
+Người 2: Dạ em nghĩ ngay tới cái chợ ngoài đầu ngõ hoặc là siêu thị Vinmart ạ! Nơi người ta bày bán rau cá, thịt thà.
+Người 1: Đúng, nhưng đó là khái niệm của ngày xưa rồi. Ngày nay, Thị trường không bị trói buộc trong một khu đất vật lý nữa. Nó là bất cứ nơi nào, bất cứ phương thức nào mà người mua và người bán "va chạm" với nhau để chốt giá và chốt số lượng. Có thể là chợ, siêu thị, nhưng cũng có thể là ứng dụng Shopee, Tiktok Shop, hay sàn giao dịch tiền ảo Bitcoin nơi người ta chẳng bao giờ gặp mặt nhau.
+
+Slide 6: Đặc điểm của thị trường
+Người 1: Bất kể là chợ truyền thống hay chợ mạng, mọi thị trường đều có 4 đặc điểm chung: Phải có Chủ thể tham gia (người mua đại diện cho Cầu, người bán đại diện cho Cung). Phải có Đối tượng để giao dịch (như mớ rau, giờ làm việc, hay cổ phiếu). Phải đạt được Điều kiện giao dịch (thuận mua vừa bán). Và cuối cùng là Công cụ trao đổi (ngày xưa là lấy gạo đổi gà, nay thì dùng tiền mặt, thẻ tín dụng, chuyển khoản).
+
+Slide 7: Chức năng của thị trường (1/2)
+Người 1: Vậy thị trường sinh ra để làm gì? Nó có 3 chức năng quyền lực. Chức năng 1: Thừa nhận. Nếu doanh nghiệp sản xuất ra một chiếc áo thật đẹp nhưng mang ra thị trường không ai mua, thì chiếc áo đó bị thị trường "từ chối". Ngược lại, bán được hàng tức là xã hội "thừa nhận" sản phẩm của anh có ích.
+Chức năng 2: Thông tin. Giá cả chính là linh hồn của thị trường. Nhìn vào giá xăng tăng vọt, người dân biết ngay xăng đang khan hiếm. Nhìn vào giá rau rẻ như bèo, ta biết rau đang dư thừa.
+
+Slide 8: Chức năng của thị trường (2/2)
+Người 1: Và chức năng 3: Điều tiết, kích thích. Lợi nhuận là thỏi nam châm. Mặt hàng nào giá cao, lợi nhuận khủng, thị trường tự động hút các doanh nghiệp đổ xô vào làm. Đồng thời, sự khốc liệt của cạnh tranh sẽ bóp nghẹt những công ty lạc hậu, ép họ phải liên tục cải tiến công nghệ, ra mắt sản phẩm mới để sinh tồn. Đó là sự diệu kỳ của thị trường.
+
+Slide 9: Phân loại thị trường
+Người 1: Người ta có thể chia thị trường theo nhiều kiểu. Theo đối tượng thì có thị trường hàng hóa, sức lao động, chứng khoán. Theo địa lý thì có thị trường địa phương, quốc tế. Nhưng quan trọng nhất trong môn Vi mô này, ta sẽ chia theo mức độ cạnh tranh: Cạnh tranh hoàn hảo, cạnh tranh độc quyền, độc quyền tập đoàn và độc quyền hoàn toàn. Chúng ta sẽ cày xới kỹ mảng này ở Chương 5.
+
+Slide 10: Khái niệm Cầu (Demand)
+Người 1: Sang phần 2, trọng tâm của ngày hôm nay: Cầu là gì? Các em nhìn kỹ định nghĩa trên bảng. Cầu (ký hiệu là D) không phải là sự thèm muốn suông. 
+
+Slide 11: Hai điều kiện bắt buộc của Cầu
+Người 1: Nó là số lượng hàng hóa mà người mua SẴN SÀNG mua và CÓ KHẢ NĂNG mua ở các mức giá khác nhau. Nhớ kỹ 2 điều kiện nhé: Phải muốn mua, và quan trọng là tiền trong ví phải đủ để mua.
+
+Slide 12: Nhu cầu (Needs/Wants) vs Cầu (Demand)
+Người 1: Để hiểu rõ, ta phân biệt Nhu cầu và Cầu.
+Người 2: Cô ơi, em rất khát khao có một chiếc siêu xe Ferrari để chạy cho oách. Vậy đó là Cầu đúng không ạ?
+Người 1: Không em nhé! Đó mới chỉ là "Nhu cầu" - khát vọng vô tận của em. Khổ nỗi, sinh viên lấy đâu ra 20 tỷ mà mua Ferrari? Em chỉ có đủ tiền mua một chiếc xe máy Vision thôi. Vậy khi nhà kinh tế học đo lường, họ không xếp em vào nhóm Cầu của thị trường Ferrari, mà em nằm trong lực lượng "Cầu" của thị trường xe máy Honda. Có tiền thì mới tạo ra Cầu thực sự!
+
+Slide 13: Khái niệm Lượng cầu (Quantity Demanded)
+Người 1: Tiếp theo, sự khác biệt giữa Cầu và Lượng cầu. Lượng cầu (ký hiệu là Qd) là một con số rất cụ thể, chốt cứng ở một mức giá cụ thể. 
+Người 2: Em vẫn thấy hơi mơ hồ giữa hai khái niệm này cô ạ.
+Người 1: Cô lấy ví dụ nhé. "Cầu" là một bức tranh toàn cảnh: "Nếu giá thịt lợn là 100k thì tôi mua 2kg, nếu giá lên 120k thì tôi mua 1kg, nếu giá xuống 80k tôi mua 3kg". Cả cái danh sách dài ngoằng đó gọi là CẦU. Còn "Lượng cầu" chỉ là 1 mốc duy nhất: "Hôm nay giá thịt đúng 100k, tôi chốt mua Lượng cầu là 2kg". Rõ ràng chưa nào?
+
+Slide 14: Biểu cầu (Demand Schedule)
+Người 1: Khi ta mang cái danh sách dài ngoằng mà cô vừa nói, xếp nó vào một cái bảng có 2 cột: Cột Giá (P) và cột Lượng (Q), ta được một thứ gọi là "Biểu cầu". Các em nhìn bảng 3-1 trên slide. Giá gạo 10 nghìn thì mua 50kg, giá lên 50 nghìn thì thu hẹp lại chỉ mua 10kg thôi. Nhìn vào bảng, ta thấy ngay một quy luật nghịch biến rất quen thuộc.
+
+Slide 15: Cầu cá nhân và Cầu thị trường
+Người 1: Cái biểu cầu vừa rồi chỉ là của 1 người, gọi là Cầu cá nhân. Nhưng doanh nghiệp không quan tâm 1 người, họ quan tâm cả xã hội. Cầu thị trường chính là phép cộng gộp tất cả lượng cầu cá nhân lại với nhau tại cùng một mức giá.
+
+Slide 16: Ví dụ: Tính Cầu thị trường
+Người 1: Quan sát Bảng 3-2. Thị trường có anh A và anh B. Tại mức giá 10$, anh A mua 12kg, anh B mua 10kg. Ta cộng ngang lại: 12 + 10 = 22kg. Đây chính là Lượng cầu thị trường ở giá 10$. Tính tương tự cho các mức giá khác, ta có một biểu cầu thị trường hoàn chỉnh. Quá đơn giản phải không?
+
+Slide 17: Quy luật Cầu (Law of Demand)
+Người 1: Từ cái biểu cầu đó, ta rút ra một chân lý bất di bất dịch của kinh tế học: Quy luật Cầu. Nó phát biểu rằng: Giá tăng thì lượng cầu giảm, giá giảm thì lượng cầu tăng (giả định mọi thứ khác đứng im). Tức là P và Q tỉ lệ nghịch với nhau.
+
+Slide 18: Giải thích Quy luật Cầu
+Người 1: Tại sao lại nghịch biến? Tại sao cứ rẻ mới mua nhiều? Có 2 lý do cực kỳ logic. Thứ nhất là "Hiệu ứng thay thế": Khi giá gà tăng vọt lên, giá lợn giữ nguyên, tự nhiên người ta thấy lợn rẻ đi một cách tương đối, thế là họ tẩy chay gà sang ăn lợn. Lượng cầu gà giảm!
+Thứ hai là "Hiệu ứng thu nhập": Lương tháng em 10 triệu. Giá ly trà sữa giảm từ 50k xuống 25k. Em đột nhiên cảm thấy mình "giàu" lên, sức mua tăng gấp đôi. Thế là thay vì tuần uống 2 ly, em uống hẳn 4 ly. 
+
+Slide 19: Đồ thị Đường cầu
+Người 1: Bây giờ, ta đem các cặp số liệu (P, Q) trên biểu cầu, chấm lên một trục tọa độ. Nối các điểm lại, ta được Đường Cầu (ký hiệu là D). 
+Người 2: Cô ơi, trục tung và trục hoành quy định như thế nào ạ?
+Người 1: Rất tốt. Quy ước quốc tế: Trục tung thẳng đứng luôn là Giá (P). Trục hoành nằm ngang luôn là Lượng (Q). Các em nhìn hình 3-1, đường cầu D trượt dốc từ trên cùng bên trái xuống dưới cùng bên phải. Độ dốc âm này chính là hình ảnh minh họa cho sự nghịch biến của Quy luật Cầu!
+
+Slide 20: Hàm số Cầu
+Người 1: Và đồ thị nào cũng có phương trình Toán học của nó. Ở bậc đại học, ta đơn giản hóa mọi thứ thành đường thẳng (tuyến tính). Phương trình Cầu thuận là $Q_D = a \cdot P + b$. Trong đó hệ số $a$ bắt buộc phải là số ÂM để thỏa mãn quy luật nghịch biến. 
+
+Slide 21: Hàm số Cầu ii
+Người 1: Khi làm bài, người ta hay bắt các em viết ngược lại để dễ vẽ đồ thị: $P = c \cdot Q_D + d$. Tí nữa mình sẽ làm bài tập này nhé.
+
+Slide 22: Các yếu tố ảnh hưởng đến Cầu
+Người 1: Vậy điều gì làm cho nhu cầu thay đổi ngoài mức giá? Chúng ta cùng tìm hiểu phần tiếp theo.
+
+Slide 23: Tổng quan các yếu tố làm dịch chuyển đường cầu
+Người 1: Nãy giờ ta mới nói chuyện GIÁ CẢ làm thay đổi lượng mua. Nhưng thực tế, có những "kẻ giấu mặt" đứng đằng sau thao túng toàn bộ nhu cầu mua sắm của chúng ta dù giá không hề đổi. Đó là 5 yếu tố: Thu nhập, Dân số, Giá hàng liên quan, Sở thích, và Sự kỳ vọng. Khi 5 ông này ra tay, cả Đường cầu sẽ bị bứng rễ và dịch chuyển sang chỗ khác!
+
+Slide 24: 1. Thu nhập của người tiêu dùng
+Người 1: Ông số 1: Thu nhập. Có 2 loại hàng hóa phản ứng khác nhau với tiền lương của em. 
+Hàng bình thường: Quần áo xịn, ăn nhà hàng sang. Lương tăng, em mua nó nhiều hơn. Đường cầu dịch sang phải.
+Hàng thứ cấp: Mì tôm đóng gói, quần áo hàng thùng. Lương tăng, em chê nó, em bỏ đi ăn phở. Lượng mua giảm hẳn. Đường cầu dịch sang trái.
+
+Slide 25: 2. Dân số / Số lượng người mua
+Người 1: Ông số 2: Dân số. Cái này thì hiển nhiên. Tự nhiên tháng 9, một triệu sinh viên đổ về thủ đô Hà Nội. Rõ ràng là giá bún đậu mắm tôm không đổi, nhưng số lượng bán ra tăng vọt vì có thêm hàng triệu cái mồm ăn. Dân số đông, người mua nhiều thì Cầu sẽ phình to ra, dịch hẳn sang phải.
+
+Slide 26: 3. Giá cả hàng hóa liên quan (1/2) - Hàng thay thế
+Người 1: Ông số 3 cực kỳ lợi hại: Giá của hàng hóa láng giềng. Loại láng giềng thứ nhất là "Hàng thay thế" - một mất một còn. Ví dụ Coca và Pepsi.
+Người 2: Giả sử Pepsi tăng giá gấp đôi thì sao cô?
+Người 1: Tốt! Pepsi đắt quá, người ta quay lưng chạy hết sang mua Coca, dù giá Coca không hề rẻ đi một cắc nào! Kết quả: Lượng bán Coca tăng vọt, đường cầu Coca vút sang phải.
+
+Slide 27: 3. Giá cả hàng hóa liên quan (2/2) - Hàng bổ sung
+Người 1: Loại láng giềng thứ hai là "Hàng bổ sung" - sống chết có nhau. Ví dụ Xăng và Xe máy. Xăng mà tăng giá lên 100 ngàn 1 lít, người dân khiếp vía không dám ra đường. Kết quả là các cửa hàng bán xe máy chả ai thèm mua, ế ẩm. Giá xăng tăng làm nhu cầu mua xe máy sụp đổ, đường cầu xe máy dịch tuột sang trái. Rất logic đúng không?
+
+Slide 28: 4. Sở thích / Thị hiếu
+Người 1: Yếu tố số 4: Sở thích, thị hiếu. Cái này bị giật dây bởi quảng cáo, idol Tiktok hay bác sĩ.
+Tự nhiên VTV đưa tin khoa học: "Ăn khoai lang chữa bách bệnh, chống ung thư". Ngày mai ra chợ, dù giá khoai lang chả thay đổi, các bà các mẹ thi nhau tranh cướp mua sạch khoai lang. Sở thích và lòng tin đột ngột tăng mạnh kéo đường cầu dịch vút sang phải.
+
+Slide 29: 5. Kỳ vọng của người tiêu dùng
+Người 1: Yếu tố cuối cùng: Kỳ vọng vào tương lai. Nghe râm ran tin đồn tuần sau giá vàng lên đỉnh. Các em sẽ làm gì? Vác hết tiền đi mua vàng ngay hôm nay! Dù giá vàng hôm nay đứng im, nhưng "lời đồn tương lai" đã đẩy cầu hiện tại tăng điên cuồng (dịch sang phải).
+
+Slide 30: Vận động dọc và Dịch chuyển
+Người 1: Đến đây, chúng ta cần phân biệt rõ hai hiện tượng rất dễ nhầm lẫn trên đồ thị.
+
+Slide 31: Vận động dọc theo đường cầu
+Người 1: Rất nhiều sinh viên đi thi bị đánh lừa giữa 2 khái niệm Trượt dọc và Dịch chuyển. 
+Khi nào thì trượt dọc? Các em nhìn hình 3-2. Chỉ có MỘT lý do duy nhất: Đó là GIÁ CỦA CHÍNH CÁI HÀNG HÓA ĐÓ thay đổi. Đồ thị vẫn là 1 đường thẳng duy nhất. Trái chanh đang 5k rớt xuống 2k, em mua nhiều chanh hơn. Điểm A trượt tút xuống điểm B trên ĐÚNG CÁI ĐƯỜNG CẦU ĐÓ. Hiện tượng này gọi là "Sự thay đổi LƯỢNG CẦU".
+
+Slide 32: Sự dịch chuyển đường cầu
+Người 1: Khi nào thì Dịch chuyển? Nhìn hình 3-3. Khi có sự nhúng tay của 5 kẻ giấu mặt ngoài lề (Thu nhập, Sở thích, Dân số...). Lúc này, người mua sẵn sàng mua nhiều hơn ở MỌI mức giá. Đồ thị sinh ra hẳn một con đường mới D2 song song với đường D1. Hiện tượng bứng rễ cả đồ thị này gọi là "Sự thay đổi CẦU".
+
+Slide 33: Tóm tắt phân biệt
+Người 1: Bảng 3-3 này đáng giá ngàn vàng. Nhớ kỹ:
+"Thay đổi LƯỢNG CẦU" -> do Giá đổi -> Trượt dọc.
+"Thay đổi CẦU" -> do Các yếu tố ngoài giá đổi -> Dịch chuyển cả đường.
+Tuyệt đối không được dùng sai thuật ngữ nhé!
+
+Slide 34: Luyện tập & Thảo luận
+Người 1: Để củng cố kiến thức, các em hãy cùng trả lời nhanh một số câu hỏi trắc nghiệm sau đây.
+
+Slide 35: Trắc nghiệm nhanh (1/4)
+Người 1: Nào, đánh thức não bộ. 4 câu trắc nghiệm tốc độ. Câu 1: iPhone 15 giảm giá, hiện tượng gì xảy ra?
+Người 2: Dạ... giá của chính nó giảm, vậy thì là trượt dọc. Trượt dọc thì dùng từ "Lượng cầu". Em chọn B: Lượng cầu về iPhone tăng ạ!
+Người 1: 10 điểm tuyệt đối! Giải thích cực kỳ rành rọt.
+
+Slide 36: Trắc nghiệm nhanh (2/4)
+Người 1: Câu 2: Lương em tăng lên, em sẽ mua nhiều thịt bò hơn (hàng bình thường). Đồ thị biểu diễn thế nào?
+Người 2: Lương là yếu tố nằm "Ngoài giá", vậy chắc chắn là Dịch chuyển đường cầu! Em có tiền nên mua nhiều hơn, dịch sang Phải. Câu C ạ!
+Người 1: Không thể chuẩn hơn.
+
+Slide 37: Trắc nghiệm nhanh (3/4)
+Người 1: Câu 3: Trà bị mất mùa, giá trà tăng vút mây xanh. Cà phê được lợi gì?
+Người 2: Người ta sẽ bỏ uống trà vì đắt, chạy sang uống cà phê thay thế. Dù giá cà phê giữ nguyên nhưng người uống đông nghẹt, đường cầu cà phê dịch sang Phải. Câu A thưa cô!
+Người 1: Hoàn hảo!
+
+Slide 38: Trắc nghiệm nhanh (4/4)
+Người 1: Câu 4: Dự đoán tháng sau xăng tăng giá khủng khiếp. Hôm nay bà con sẽ làm gì?
+Người 2: Sẽ đi mua tích trữ xăng ạ! Giá xăng hôm nay không đổi nhưng Cầu hôm nay bung lụa dịch sang phải. Em chọn C ạ!
+Người 1: Xuất sắc. Các em đã nắm bài cực kỳ chắc chắn, cô rất hài lòng.
+
+Slide 39: Bài tập Tự luận
+Người 1: Phần cuối, ta chuyển sang vận dụng tay chân vẽ vời một chút. Đây là 1 biểu cầu có giá 10 thì lượng 100, giá 20 lượng 80. Các em hãy lấy giấy nháp ra và thiết lập phương trình hàm số Cầu Qd = a*P + b. 
+
+Slide 40: Hướng dẫn giải Bài tập Tự luận (1/2)
+Người 1: Rất dễ. Chọn 2 điểm bất kỳ trong bảng để lập hệ phương trình. Thay P=10, Q=100 vào ta được phương trình 1. Thay P=20, Q=80 vào ta được phương trình 2. Lấy máy tính ra bấm xoạch xoạch, ta giải được a = -2 (hệ số âm là đúng quy luật nghịch biến rồi).
+
+Slide 41: Hướng dẫn giải Bài tập Tự luận (2/2)
+Người 1: Thay a = -2 vào phương trình 1, ta tính ra b = 120. Vậy hàm số Cầu là Qd = -2P + 120. Rất ngon ăn đúng không?
+
+Slide 42: Tổng kết bài học
+Người 1: Buổi học số 3 khép lại ở đây. Tóm gọn lại: Các em đã hiểu Thị trường là sàn đấu. Cầu là đại diện cho khát khao của người mua (nhưng phải có tiền). Giá giảm thì Lượng cầu tăng (trượt dọc). Nhưng nếu lương tăng, dân số tăng, hay sở thích thay đổi thì toàn bộ Đường cầu sẽ bị bê đi chỗ khác (Dịch chuyển). 
+Về nhà luyện viết phương trình nhé, vì buổi sau ta sẽ ghép Đường Cầu này với Đường Cung đấy!
+
+Slide 43: Q&A
+Người 1: Có ai không rõ phần giải hệ phương trình không? Cứ hỏi nhé! ... Nếu ổn thỏa hết, lớp ta tan học. Cảm ơn sự sôi nổi của các em hôm nay, chào cả lớp!
+Người 2: Em chào cô ạ!
