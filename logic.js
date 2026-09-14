@@ -53,8 +53,6 @@ function renderSessionList(sessions) {
 function loadSession(session) {
     const contentElement = document.getElementById('lessonContent');
     const titleElement = document.getElementById('currentSessionTitle');
-    const highlightBox = document.getElementById('syllabusHighlight');
-    const topicsList = document.getElementById('topicsList');
     
     // Smooth transition effect
     document.querySelector('.content-wrapper').style.display = 'block';
@@ -70,22 +68,46 @@ function loadSession(session) {
             dayStr = match[1].padStart(2, '0');
         }
         
+        const tabNav = `
+        <div class="tabs-container">
+            <button class="tab-btn active" onclick="switchTab('contentTab')">Nội dung</button>
+            <button class="tab-btn" onclick="switchTab('videoTab')">Video</button>
+        </div>
+        `;
+
         const videoIframe = `
-        <div style="margin-bottom: 2rem; width: 100%; height: 70vh; min-height: 400px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); background: #000; position: relative;">
-            <button onclick="document.querySelector('.content-wrapper').style.display='none'; document.getElementById('sidebar').classList.add('open');" style="position: absolute; top: 10px; left: 10px; z-index: 10; padding: 8px 16px; background: rgba(0,0,0,0.6); color: white; border: none; border-radius: 8px; cursor: pointer;">⬅ Quay lại Menu</button>
-            <iframe src="Video/Day_${dayStr}/index.html" style="width: 100%; height: 100%; border: none;"></iframe>
+        <div id="videoTab" class="tab-content">
+            <div style="width: 100%; height: 70vh; min-height: 400px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.1); background: #000; position: relative;">
+                <button onclick="document.querySelector('.content-wrapper').style.display='none'; document.getElementById('sidebar').classList.add('open');" style="position: absolute; top: 10px; left: 10px; z-index: 10; padding: 8px 16px; background: rgba(0,0,0,0.6); color: white; border: none; border-radius: 8px; cursor: pointer;">⬅ Quay lại Menu</button>
+                <iframe src="Video/Day_${dayStr}/index.html" style="width: 100%; height: 100%; border: none;"></iframe>
+            </div>
         </div>
         `;
         
-        contentElement.innerHTML = videoIframe + session.html;
-        
-        // Handle syllabus topics
+        let syllabusHtml = '';
         if (session.topics && session.topics.length > 0) {
-            highlightBox.style.display = 'block';
-            topicsList.innerHTML = session.topics.map(topic => `<li>${topic}</li>`).join('');
-        } else {
-            highlightBox.style.display = 'none';
+            const topicsLi = session.topics.map(topic => `<li>${topic}</li>`).join('');
+            syllabusHtml = `
+                <div class="syllabus-highlight" style="display: block; margin-top: 1rem;">
+                    <div class="highlight-header">
+                        <span class="icon">🎯</span>
+                        <h3>Nội dung Đề cương Môn học Yêu cầu</h3>
+                    </div>
+                    <ul class="topics-list">
+                        ${topicsLi}
+                    </ul>
+                </div>
+            `;
         }
+
+        const contentTab = `
+        <div id="contentTab" class="tab-content active">
+            ${syllabusHtml}
+            ${session.html}
+        </div>
+        `;
+        
+        contentElement.innerHTML = tabNav + contentTab + videoIframe;
         
         contentElement.style.opacity = '1';
         
@@ -130,3 +152,21 @@ function setupMobileMenu() {
     closeBtn.addEventListener('click', closeSidebar);
     overlay.addEventListener('click', closeSidebar);
 }
+
+window.switchTab = function(tabId) {
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.getAttribute('onclick').includes(tabId)) {
+            btn.classList.add('active');
+        }
+    });
+    
+    document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.remove('active');
+    });
+    
+    const targetTab = document.getElementById(tabId);
+    if (targetTab) {
+        targetTab.classList.add('active');
+    }
+};
