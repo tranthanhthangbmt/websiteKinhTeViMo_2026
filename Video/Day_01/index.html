@@ -500,11 +500,11 @@
             };
 
             const cleanup = () => {
-              audio.removeEventListener('canplaythrough', onSuccess);
+              audio.removeEventListener('loadedmetadata', onSuccess);
               audio.removeEventListener('error', onError);
             };
 
-            audio.addEventListener('canplaythrough', onSuccess); // Đủ dữ liệu để phát
+            audio.addEventListener('loadedmetadata', onSuccess); // Đủ dữ liệu để phát
             audio.addEventListener('error', onError);
             audio.load();
           };
