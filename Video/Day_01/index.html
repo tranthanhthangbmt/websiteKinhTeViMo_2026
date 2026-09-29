@@ -478,35 +478,19 @@
 
           const tryLoad = () => {
             attempts++;
-            // Dùng fetch để kiểm tra chắc chắn file tồn tại và tải về buffer dòng chảy nếu cần
-            // Tuy nhiên để đơn giản và tận dụng browser cache, ta dùng Audio object
-            const audio = new Audio();
-            audio.preload = 'auto';
-            audio.src = src;
-
-            // Xử lý sự kiện load
-            const onSuccess = () => {
-              cleanup();
-              resolve(src);
-            };
-            const onError = () => {
-              cleanup();
-              console.warn(`[Audio] Lỗi tải audio ${index} (Lần ${attempts})`);
-              if (attempts < this.maxRetries) {
-                setTimeout(tryLoad, this.retryDelay * attempts);
-              } else {
-                reject(new Error(`Không thể tải audio slide ${index}`));
-              }
-            };
-
-            const cleanup = () => {
-              audio.removeEventListener('loadedmetadata', onSuccess);
-              audio.removeEventListener('error', onError);
-            };
-
-            audio.addEventListener('loadedmetadata', onSuccess); // Đủ dữ liệu để phát
-            audio.addEventListener('error', onError);
-            audio.load();
+            fetch(src)
+              .then(response => {
+                if (!response.ok) throw new Error("Audio load failed");
+                resolve(src);
+              })
+              .catch(err => {
+                console.warn(`[Audio] Lỗi tải audio ${index} (Lần ${attempts})`);
+                if (attempts < this.maxRetries) {
+                  setTimeout(tryLoad, this.retryDelay * attempts);
+                } else {
+                  reject(new Error(`Không thể tải audio slide ${index}`));
+                }
+              });
           };
           tryLoad();
         });
